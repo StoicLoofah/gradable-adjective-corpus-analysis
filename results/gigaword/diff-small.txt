@@ -1,0 +1,558 @@
+3d2
+< about little
+6a6,7
+> really difficult
+> really important
+12a14,15
+> right important
+> about concerned
+19d21
+< fairly far
+22d23
+< enormously popular
+24,25d24
+< very early
+< about little
+27a27
+> nearly effective
+33d32
+< about white
+38d36
+< about possible
+44d41
+< about last
+45a43
+> really open
+49c47
+< really only
+---
+> almost good
+51d48
+< mostly young
+54a52
+> about concerned
+61d58
+< about bad
+67d63
+< very little
+70d65
+< about human
+73d67
+< about human
+76a71
+> about white
+79d73
+< very nice
+81,82d74
+< nearly far
+< how likely
+88a81
+> very significant
+90d82
+< how difficult
+98a91
+> right responsible
+100c93
+< about personal
+---
+> very old
+102a96
+> how certain
+106d99
+< about high
+121d113
+< about free
+123,124c115,116
+< rather professional
+< nearly long
+---
+> about hard
+> right due
+137d128
+< about foreign
+149,151c140
+< how wrong
+< about social
+< about little
+---
+> about close
+152a142
+> about good
+154a145
+> half last
+156d146
+< pretty good
+164a155,156
+> about total
+> half total
+165a158
+> slightly open
+179,180d171
+< very serious
+< how effective
+186d176
+< very big
+188c178,179
+< really young
+---
+> nearly possible
+> almost great
+191a183
+> half available
+197d188
+< very likely
+207d197
+< about other
+210d199
+< about basic
+215a205
+> nearly important
+229d218
+< how useful
+232d220
+< very good
+242d229
+< pretty poor
+244c231
+< almost total
+---
+> half responsible
+245a233
+> nearly high
+260d247
+< really great
+263d249
+< half early
+268d253
+< about possible
+271d255
+< mostly short
+276a261,263
+> really bad
+> really good
+> right hard
+281c268
+< about public
+---
+> about common
+300,301d286
+< about foreign
+< about special
+304c289
+< about political
+---
+> right left
+313c298
+< about following
+---
+> right important
+320a306,307
+> almost right
+> right right
+321a309
+> about concerned
+323d310
+< slightly new
+327d313
+< about working
+329c315
+< about high
+---
+> very positive
+335,336d320
+< how beautiful
+< quite real
+341c325
+< partly responsible
+---
+> about close
+343d326
+< very dark
+345a329,330
+> about close
+> almost wide
+353d337
+< about popular
+358d341
+< exactly traditional
+361a345
+> about large
+365d348
+< about foreign
+369d351
+< about individual
+377d358
+< about political
+389a371
+> very difficult
+391d372
+< mostly white
+396a378
+> about close
+397a380
+> about close
+400c383
+< really only
+---
+> how able
+403d385
+< very last
+407d388
+< how deep
+410a392
+> right wrong
+412,413c394
+< about young
+< how easy
+---
+> right sure
+414a396
+> right sure
+418c400,401
+< very early
+---
+> very good
+> very good
+425,426d407
+< about serious
+< how little
+428,429c409,412
+< about medical
+< how far
+---
+> about close
+> almost wide
+> about close
+> almost wide
+431d413
+< very small
+433c415
+< how public
+---
+> how working
+441d422
+< fairly recent
+443d423
+< about various
+446d425
+< about military
+455a435
+> how able
+456a437
+> almost old
+458a440
+> almost old
+462a445
+> how close
+465c448
+< about young
+---
+> how popular
+474a458
+> completely different
+475a460
+> almost old
+477a463
+> about happy
+482c468,469
+< about little
+---
+> right right
+> very high
+485a473
+> about small
+487d474
+< rather strong
+489d475
+< how low
+499d484
+< nearly far
+500a486
+> really clear
+502d487
+< about possible
+505c490
+< purely medical
+---
+> about bad
+509d493
+< about other
+513a498
+> really interesting
+515d499
+< about general
+521d504
+< mostly white
+531d513
+< about current
+533a516,517
+> how open
+> very interesting
+538d521
+< how great
+541d523
+< about early
+547a530
+> right difficult
+550d532
+< very large
+551a534
+> about deep
+552a536
+> nearly heavy
+564a549
+> very easy
+566a552
+> how close
+569d554
+< about other
+572,573c557
+< about other
+< about economic
+---
+> how able
+579a564
+> right poor
+583a569
+> about concerned
+585a572
+> right far
+600d586
+< how great
+608d593
+< about working
+622a608
+> really able
+624a611
+> how direct
+627,628c614,615
+< about appropriate
+< very special
+---
+> really final
+> almost left
+633,635d619
+< about black
+< how easy
+< how open
+639a624,626
+> right due
+> almost bad
+> almost bad
+640a628
+> almost bad
+642d629
+< about public
+644c631
+< how good
+---
+> very right
+654c641,642
+< how small
+---
+> how open
+> partly easy
+660d647
+< how close
+668,669d654
+< how future
+< about major
+670a656
+> somewhat difficult
+674,675d659
+< very close
+< about civil
+677d660
+< very little
+680a664
+> about concerned
+688d671
+< how popular
+697d679
+< about other
+705d686
+< about foreign
+708d688
+< extremely close
+711d690
+< how dark
+715a695
+> right important
+717d696
+< about legal
+720c699
+< very strong
+---
+> how able
+724d702
+< how difficult
+731a710
+> hardly likely
+744d722
+< almost total
+749,751c727
+< about major
+< very concerned
+< how little
+---
+> really final
+757d732
+< about normal
+762a738
+> very happy
+766a743,744
+> mostly left
+> right left
+769a748
+> about only
+776a756
+> right left
+778a759
+> really strong
+780a762
+> quite dark
+786,788c768
+< about current
+< about medical
+< about human
+---
+> right left
+795,799c775
+< about human
+< about human
+< about current
+< about medical
+< about human
+---
+> very nice
+802c778,779
+< how big
+---
+> slightly significant
+> right left
+803a781
+> nearly big
+807d784
+< how future
+814a792
+> how present
+820d797
+< about legal
+822d798
+< really only
+824a801,802
+> fairly concerned
+> hardly aware
+826,827c804
+< highly successful
+< how little
+---
+> really simple
+829a807,808
+> half independent
+> half independent
+834d812
+< very special
+842a821
+> very good
+844c823
+< how little
+---
+> about sure
+846a826,827
+> partly real
+> very common
+859a841
+> half able
+864a847
+> mostly positive
+872d854
+< about foreign
+875c857,858
+< how little
+---
+> almost obvious
+> barely wide
+876a860
+> really bad
+888a873
+> right left
+891d875
+< about possible
+893a878
+> mostly dead
+908a894
+> very aware
+910c896,897
+< nearly full
+---
+> right wrong
+> really positive
+911a899,900
+> slightly likely
+> very aware
+912a902
+> right wrong
+914d903
+< about traditional
+917a907
+> half long
+921d910
+< about military
+925a915
+> right sure
+932d921
+< how certain
+935d923
+< how certain
+947c935
+< about military
+---
+> very clear
+951d938
+< highly personal
+961a949
+> very high
+963d950
+< half full
+970d956
+< how private
+974d959
+< very little
+978d962
+< how easy
+981d964
+< very early
+984c967
+< about social
+---
+> very high
+987d969
+< mostly black
+989c971
+< highly political
+---
+> very aware
+992c974,975
+< how big
+---
+> very high
+> purely natural
+994c977
+< really bad
+---
+> incredibly successful
+995a979
+> right available
+998a983
+> quite simple
+1002d986
+< about popular
+1004a989,990
+> pretty good
+> right only
+1012c998
+< very bad
+---
+> very bad
+\ No newline at end of file

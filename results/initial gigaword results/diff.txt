@@ -1,0 +1,50 @@
+1,6c1,2
+< about new
+< about new
+< about new
+< about other
+< about young
+< about young
+---
+> about popular
+> about right
+17a14,15
+> half early
+> hardly possible
+18a17
+> how able
+29d27
+< how new
+31c29,30
+< how open
+---
+> how present
+> how present
+34a34
+> partly able
+38a39,40
+> partly short
+> partly short
+58,59c60
+< really dead
+< really dead
+---
+> really different
+68c69,72
+< really special
+---
+> really significant
+> right good
+> right left
+> right left
+76d79
+< very deep
+99c102
+< very hard
+---
+> very good
+106d108
+< very last
+113,114d114
+< very little
+< very little

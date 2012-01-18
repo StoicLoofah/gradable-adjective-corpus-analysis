@@ -1,0 +1,55 @@
+\begin{thebibliography}{1}
+
+\bibitem{boleda}
+G.~Boleda~Torrent and L.~Alonso~i Alemany.
+\newblock Clustering adjectives for class acquisition.
+\newblock In {\em Proceedings of the tenth conference on European chapter of
+  the Association for Computational Linguistics - Volume 2}, EACL '03, pages
+  9--16, Stroudsburg, PA, USA, 2003. Association for Computational Linguistics.
+
+\bibitem{marneffe}
+M.~catherine De~Marneffe, B.~Maccartney, and C.~D. Manning.
+\newblock Generating typed dependency parses from phrase structure parses.
+\newblock In {\em In LREC 2006}, 2006.
+
+\bibitem{coclustering}
+I.~S. Dhillon.
+\newblock Co-clustering documents and words using bipartite spectral graph
+  partitioning.
+\newblock In {\em Proceedings of the seventh ACM SIGKDD international
+  conference on Knowledge discovery and data mining}, KDD '01, pages 269--274,
+  New York, NY, USA, 2001. ACM.
+
+\bibitem{hat}
+V.~Hatzivassiloglou.
+\newblock Do we need linguistics when we have statistics? a comparative
+  analysis of the contributions of linguistic cues to a statistical word
+  grouping system.
+\newblock In {\em In Judith L. Klavans and Philip Resnik, editors, The
+  Balancing Act}, pages 67--94. MIT Press, 1996.
+
+\bibitem{kennedymcnally}
+C.~Kennedy and L.~McNally.
+\newblock Scale structure and the semantic typology of gradable predicates.
+\newblock {\em Language}, 81(2):345--381, 2005.
+
+\bibitem{irbook}
+C.~D. Manning, P.~Raghavan, and H.~Sch\"{u}tze.
+\newblock {\em {Introduction to Information Retrieval}}.
+\newblock Cambridge University Press, 1 edition, July 2008.
+
+\bibitem{rooth}
+M.~Rooth, S.~Riezler, D.~Prescher, G.~Carroll, and F.~Beil.
+\newblock Inducing a semantically annotated lexicon via em-based clustering.
+\newblock In {\em Proceedings of the 37th annual meeting of the Association for
+  Computational Linguistics on Computational Linguistics}, ACL '99, pages
+  104--111, Stroudsburg, PA, USA, 1999. Association for Computational
+  Linguistics.
+
+\bibitem{syrett}
+K.~Syrett and J.~Lidz.
+\newblock 30-month-olds use the distribution and meaning of adverbs to
+  interpret novel adjectives.
+\newblock {\em Language Learning and Development}, 6(4):258--282, 2010.
+
+\end{thebibliography}

@@ -1,0 +1,3218 @@
+1a2
+> most lay
+3c4,6
+< about academic
+---
+> how used
+> technically primitive
+> much hidden
+6c9
+< about little
+---
+> exactly secure
+9d11
+< exactly like
+11d12
+< all physical
+16,17d16
+< vaguely embarrassed
+< little black
+19a19
+> nearly romantic
+21a22,24
+> somewhat vulnerable
+> much leading
+> all safe
+23a27
+> all live
+25a30,31
+> really difficult
+> really important
+29d34
+< most ethical
+33a39
+> about worried
+34a41
+> much generous
+36d42
+< much other
+44d49
+< little regulatory
+48a54
+> all important
+54d59
+< about cool
+55a61
+> right important
+57,58c63,64
+< most recent
+< enormously costly
+---
+> about concerned
+> much like
+59a66
+> most waiting
+62,65c69
+< little potential
+< about potential
+< about academic
+< all federal
+---
+> most general
+67c71
+< all statistical
+---
+> all real
+71c75,76
+< most advanced
+---
+> nearly spectacular
+> much delicate
+75d79
+< how lucky
+78c82
+< simply like
+---
+> much odd
+81,83c85
+< fairly far
+< little human
+< almost like
+---
+> most different
+87c89
+< most public
+---
+> little thinking
+89a92
+> most thinking
+91c94,98
+< enormously popular
+---
+> entirely sympathetic
+> enormously slim
+> enormously novel
+> right intelligent
+> all bored
+93d99
+< highly trained
+95d100
+< very early
+96a102
+> most general
+99a106
+> most damp
+101,103c108,110
+< about excessive
+< about little
+< most emotional
+---
+> much prominent
+> much like
+> most sound
+109a117
+> nearly effective
+112a121
+> totally unacceptable
+116a126
+> how balanced
+120c130,131
+< little potential
+---
+> all clear
+> most opposed
+121a133
+> much mean
+127,128d138
+< about offensive
+< about offensive
+130d139
+< about white
+141c150
+< about possible
+---
+> right balanced
+144d152
+< little immediate
+149d156
+< widely distributed
+151d157
+< about still
+153,155d158
+< little potential
+< about last
+< vaguely hostile
+156a160,162
+> most damp
+> much prominent
+> all devoted
+161,163d166
+< about still
+< little potential
+< about academic
+165a169
+> really open
+169,170c173,174
+< about academic
+< most common
+---
+> right balanced
+> little hard
+172c176
+< much like
+---
+> much sound
+181c185
+< really only
+---
+> most developed
+192c196,197
+< most urgent
+---
+> almost good
+> all related
+193a199,200
+> quite funny
+> rather rational
+195c202,203
+< little dear
+---
+> much missing
+> all calm
+198c206,207
+< about widespread
+---
+> substantially qualified
+> all good
+201c210
+< very comfortable
+---
+> very enjoyable
+204,205d212
+< how intelligent
+< most sophisticated
+209d215
+< almost universal
+213c219,221
+< mostly young
+---
+> largely available
+> simply fair
+> all expected
+216a225
+> all possible
+220c229
+< most striking
+---
+> most sound
+225a235
+> all predictable
+227c237
+< most federal
+---
+> about concerned
+230d239
+< most senior
+232d240
+< how friendly
+235d242
+< most delicate
+239d245
+< most dominant
+241,242c247
+< about alleged
+< most recent
+---
+> dead rising
+245c250
+< all political
+---
+> all likely
+247a253,254
+> much involved
+> dead left
+249c256
+< quite like
+---
+> slightly improved
+255d261
+< about bad
+262a269
+> very growing
+272d278
+< very little
+274a281
+> all far
+279a287,288
+> largely shared
+> much lost
+280a290
+> all following
+283d292
+< about human
+293d301
+< about human
+303d310
+< most massive
+306c313
+< most rural
+---
+> half live
+309a317
+> most spontaneous
+312a321
+> about white
+320c329
+< about coming
+---
+> indeed unlikely
+321a331
+> most used
+329a340
+> all lost
+330a342
+> right awake
+332d343
+< most important
+334a346
+> all static
+335a348
+> absolutely aggressive
+338d350
+< very nice
+339a352
+> rather content
+344,348d356
+< nearly far
+< how inadequate
+< most common
+< how accurate
+< how likely
+349a358
+> most common
+351a361
+> how stolen
+355a366
+> most white
+358d368
+< most important
+359a370
+> most white
+363a375
+> very significant
+368,370c380
+< how difficult
+< highly ideological
+< most dynamic
+---
+> how lost
+372d381
+< little political
+377d385
+< all necessary
+380a389
+> most sophisticated
+386a396,397
+> all serious
+> all blank
+390a402
+> much remaining
+392a405
+> especially developed
+394,395c407
+< strictly chemical
+< about living
+---
+> right responsible
+400,401c412
+< about personal
+< how expensive
+---
+> really like
+403a415,416
+> much good
+> very old
+405a419,420
+> half mixed
+> much difficult
+406a422
+> how certain
+408,409d423
+< little like
+< most other
+413d426
+< much like
+419d431
+< about high
+431d442
+< about moving
+433a445
+> how live
+436d447
+< most recent
+437a449
+> much growing
+445c457
+< most innovative
+---
+> much positive
+451a464
+> all changing
+452a466
+> widely open
+454d467
+< broadly following
+455a469
+> most encouraging
+460c474
+< most basic
+---
+> most nice
+465d478
+< most expert
+468d480
+< little operational
+470d481
+< all commercial
+471a483
+> completely cool
+473a486
+> slightly cool
+477c490
+< little orange
+---
+> all fat
+479a493
+> all driving
+482c496
+< much like
+---
+> much personal
+483a498,500
+> really upset
+> really upset
+> much interested
+488d504
+< about free
+490c506
+< how confident
+---
+> most expected
+493c509
+< rather professional
+---
+> about hard
+495,497c511,513
+< all other
+< most recent
+< nearly long
+---
+> most likely
+> right due
+> most competitive
+502d517
+< all residential
+506d520
+< about apparent
+508d521
+< how federal
+511a525
+> all used
+514d527
+< very distant
+522d534
+< all serious
+526a539,540
+> slightly slow
+> slightly optimistic
+529d542
+< little immediate
+533c546
+< about foreign
+---
+> indeed unlikely
+537,538d549
+< all other
+< all remaining
+542d552
+< all criminal
+549d558
+< all other
+562c571
+< all other
+---
+> most competitive
+564,565d572
+< all criminal
+< most memorable
+569a577
+> especially able
+572a581
+> little just
+583c592
+< all remaining
+---
+> much interested
+588a598
+> very alive
+593d602
+< most creative
+596a606
+> about close
+599d608
+< how horrible
+601,604d609
+< how wrong
+< about social
+< about little
+< most intense
+607,609c612,614
+< much like
+< all human
+< most thorough
+---
+> much used
+> how used
+> about good
+614c619
+< about outdoor
+---
+> half last
+616d620
+< pretty good
+618c622
+< about historical
+---
+> right sensitive
+620a625
+> most due
+623,625c628
+< most dynamic
+< most controversial
+< most unusual
+---
+> all above
+627a631
+> all involved
+631d634
+< most dynamic
+634c637
+< nearly worldwide
+---
+> about passionate
+637d639
+< much bodily
+642d643
+< about illegal
+647a649
+> all possible
+649a652
+> much loyal
+654c657
+< about capital
+---
+> dead opposed
+663a667,668
+> about total
+> half total
+666a672
+> slightly open
+672d677
+< most detailed
+676d680
+< about environmental
+678a683
+> right fit
+683a689
+> somewhat expensive
+691d696
+< how valuable
+693d697
+< very well
+700c704
+< most immediate
+---
+> how developing
+706,707d709
+< most financial
+< most financial
+716d717
+< most political
+717a719
+> right restricted
+718a721
+> most visible
+724d726
+< most detailed
+727d728
+< most immediate
+732,733d732
+< most detailed
+< how powerful
+736c735,736
+< how powerful
+---
+> much comfortable
+> much devoted
+741,742d740
+< very serious
+< how effective
+746c744,747
+< most basic
+---
+> all above
+> most white
+> most male
+> dead left
+748a750
+> how live
+753c755
+< all other
+---
+> all just
+755c757
+< all wise
+---
+> all lay
+761d762
+< very big
+765d765
+< most like
+768,769d767
+< about strange
+< all possible
+774a773
+> nearly possible
+775a775
+> almost great
+778d777
+< really young
+782,783c781,782
+< most common
+< most recent
+---
+> little mean
+> most financial
+785a785
+> especially used
+787d786
+< how drunk
+790c789,790
+< very strict
+---
+> how used
+> half available
+796c796
+< very likely
+---
+> very fatal
+798c798
+< about underground
+---
+> rather familiar
+801d800
+< totally fun
+802a802,804
+> dead left
+> actually educational
+> all like
+804d805
+< rather like
+808d808
+< most senior
+812,813d811
+< most significant
+< really like
+815d812
+< all alone
+818,819d814
+< how remote
+< how molecular
+822c817
+< most elegant
+---
+> most capital
+831d825
+< about other
+834a829
+> about given
+838c833
+< most severe
+---
+> much severe
+840a836
+> half marked
+843d838
+< all political
+846d840
+< about basic
+847a842
+> somewhat acceptable
+850a846
+> how used
+852d847
+< about corporate
+853a849
+> how live
+855a852
+> fairly applied
+858c855,856
+< most basic
+---
+> right fair
+> most added
+863a862
+> nearly important
+877a877
+> largely added
+879c879
+< really very
+---
+> really cruel
+882a883
+> much difficult
+886d886
+< about domestic
+892d891
+< highly unlikely
+897a897
+> all private
+899a900
+> much live
+908,909c909
+< all political
+< all civilian
+---
+> half marked
+912a913
+> much generous
+919d919
+< how useful
+920a921
+> much likely
+926a928
+> most accurate
+933,934c935,936
+< much like
+< most private
+---
+> much generous
+> actually generous
+935a938
+> barely instant
+938d940
+< about cheap
+940d941
+< very good
+942d942
+< all foreign
+943a944
+> much traditional
+946c947
+< most other
+---
+> much waste
+948d948
+< all black
+955d954
+< all racial
+959d957
+< simply sound
+964,965d961
+< most prominent
+< pretty poor
+966a963
+> dead left
+976d972
+< most senior
+977a974
+> most white
+979d975
+< all black
+981c977
+< all very
+---
+> all optimistic
+984,986d979
+< all direct
+< all direct
+< almost total
+990c983
+< about trading
+---
+> half responsible
+992d984
+< most exclusive
+994d985
+< how quick
+995a987
+> how quick
+999a992
+> nearly high
+1001d993
+< most basic
+1003d994
+< all regional
+1005a997
+> nearly paid
+1009a1002
+> most cultural
+1011d1003
+< most basic
+1012a1005
+> actually used
+1016a1010
+> very proud
+1026d1019
+< most experienced
+1028,1030c1021,1022
+< all human
+< how proud
+< all living
+---
+> little weird
+> all left
+1034a1027
+> how live
+1037a1031
+> little known
+1043d1036
+< very shallow
+1044a1038
+> much like
+1045a1040,1041
+> dead given
+> very alive
+1049d1044
+< nearly solid
+1050a1046,1047
+> dead given
+> very alive
+1056a1054
+> most evident
+1062c1060
+< really great
+---
+> partly unable
+1069d1066
+< half early
+1070a1068,1069
+> about minute
+> very well
+1078d1076
+< how ill
+1079a1078
+> all used
+1083,1084c1082,1084
+< about possible
+< nearly solid
+---
+> much like
+> little weird
+> much weird
+1085a1086
+> much different
+1087c1088,1089
+< most other
+---
+> little weird
+> much weird
+1090c1092,1093
+< most other
+---
+> little weird
+> much weird
+1093d1095
+< most basic
+1095,1096c1097,1099
+< mostly short
+< most other
+---
+> mostly dramatic
+> all familiar
+> much familiar
+1097a1101
+> much technical
+1099c1103
+< about violent
+---
+> much enthusiastic
+1105c1109
+< most immediate
+---
+> all sophisticated
+1109c1113
+< all very
+---
+> all important
+1112,1114c1116,1120
+< all abnormal
+< most memorable
+< about just
+---
+> really bad
+> much damp
+> really good
+> right hard
+> little close
+1116d1121
+< most other
+1122d1126
+< much extra
+1124d1127
+< about massive
+1126,1127d1128
+< all foreign
+< much foreign
+1128a1130,1131
+> simply available
+> most vigorous
+1129a1133
+> almost isolated
+1133c1137
+< most senior
+---
+> most level
+1135a1140
+> about common
+1139,1141c1144
+< most important
+< about public
+< really moral
+---
+> especially right
+1143c1146
+< about mechanical
+---
+> much raised
+1145a1149
+> much popular
+1147c1151
+< much like
+---
+> much very
+1156a1161
+> all trained
+1160a1166
+> hardly correct
+1166a1173
+> all round
+1173a1181
+> most used
+1176a1185
+> most able
+1177a1187,1188
+> clearly willing
+> very pleased
+1186d1196
+< most powerful
+1188,1189d1197
+< clearly perceived
+< somewhat preliminary
+1193,1194c1201
+< about foreign
+< about special
+---
+> all eligible
+1197,1198d1203
+< most basic
+< all basic
+1201a1207
+> right left
+1203d1208
+< much like
+1204a1210
+> especially wary
+1207d1212
+< how vast
+1211d1215
+< about political
+1212a1217
+> almost democratic
+1222a1228
+> slightly leading
+1223a1230
+> all illegal
+1227c1234
+< all clear
+---
+> technically subject
+1229a1237
+> all illegal
+1237d1244
+< about following
+1239c1246
+< exactly dense
+---
+> right walking
+1240a1248
+> all lost
+1241a1250,1251
+> right important
+> right fundamental
+1243a1254
+> right paid
+1249a1261
+> much unlikely
+1253a1266,1268
+> somewhat extensive
+> almost right
+> right right
+1255,1256d1269
+< about like
+< much last
+1258c1271,1273
+< how awful
+---
+> about concerned
+> especially possible
+> especially possible
+1259a1275
+> all coming
+1262d1277
+< slightly new
+1266a1282
+> most controlled
+1267a1284
+> most empty
+1271d1287
+< all top
+1275d1290
+< perfectly still
+1279d1293
+< how eager
+1282d1295
+< most extreme
+1284,1285d1296
+< dead level
+< about working
+1288a1300
+> very positive
+1290,1291c1302
+< about material
+< about high
+---
+> how paid
+1304d1314
+< how electric
+1306,1307d1315
+< all political
+< most powerful
+1310d1317
+< mostly polite
+1311a1319
+> how used
+1313d1320
+< all political
+1314a1322,1323
+> about thinking
+> all thinking
+1315a1325
+> much known
+1317,1319c1327
+< how beautiful
+< quite real
+< rather like
+---
+> completely cool
+1323a1332
+> most available
+1326d1334
+< all political
+1328d1335
+< little international
+1330c1337,1340
+< partly responsible
+---
+> about close
+> much close
+> partly isolated
+> how increased
+1332d1341
+< perfectly balanced
+1335d1343
+< most recent
+1337d1344
+< very dark
+1341a1349
+> half minute
+1342a1351,1352
+> about close
+> half middle
+1343a1354
+> almost wide
+1351a1363
+> much talented
+1356a1369
+> really vulnerable
+1358d1370
+< little independent
+1363d1374
+< all official
+1364a1376
+> most agreed
+1367d1378
+< about popular
+1369a1381
+> all stiff
+1374c1386,1387
+< relatively strict
+---
+> thoroughly dry
+> especially difficult
+1375a1389
+> much lost
+1377a1392
+> indeed moral
+1379c1394
+< how moral
+---
+> rather accused
+1384a1400
+> all right
+1389d1404
+< exactly traditional
+1392a1408
+> right firm
+1394,1395d1409
+< almost like
+< about official
+1396a1411
+> right given
+1399a1415
+> how determined
+1401d1416
+< most recent
+1405d1419
+< most recent
+1406a1421
+> dead brief
+1408d1422
+< most other
+1410c1424
+< little international
+---
+> about large
+1421,1422d1434
+< about foreign
+< little initial
+1424a1437
+> almost invisible
+1427d1439
+< all interested
+1429a1442,1443
+> dead used
+> dead alive
+1434,1435c1448
+< how federal
+< about individual
+---
+> actually waste
+1438d1450
+< all political
+1445d1456
+< all other
+1455d1465
+< about political
+1461a1472
+> all fixed
+1462a1474
+> much difficult
+1465d1476
+< all embarrassed
+1469a1481
+> right equal
+1470a1483
+> much devoted
+1472d1484
+< all bad
+1475a1488
+> all aware
+1477d1489
+< really like
+1482d1493
+< all racial
+1486a1498
+> very difficult
+1489c1501
+< mostly white
+---
+> mostly male
+1501d1512
+< simply different
+1508a1520
+> much difficult
+1511c1523
+< almost like
+---
+> all good
+1514d1525
+< very remote
+1517a1529,1530
+> about close
+> dead brief
+1518a1532,1534
+> about close
+> much close
+> dead brief
+1520,1521d1535
+< thoroughly contemporary
+< most contemporary
+1525,1526d1538
+< absolutely wicked
+< really only
+1528a1541
+> technically possible
+1529a1543,1545
+> how able
+> slightly sophisticated
+> most written
+1533d1548
+< most direct
+1536,1538c1551
+< about terrible
+< about decent
+< very last
+---
+> all interested
+1548d1560
+< how deep
+1550d1561
+< little lost
+1554a1566
+> all fat
+1556,1559d1567
+< most frequent
+< most major
+< most international
+< about familiar
+1562a1571
+> all walking
+1569a1579
+> right wrong
+1571a1582
+> really straight
+1573c1584,1585
+< how pleased
+---
+> rather correct
+> clearly welcome
+1575d1586
+< about young
+1577d1587
+< all conservative
+1579,1581c1589
+< how easy
+< all past
+< all rural
+---
+> right sure
+1583a1592
+> right sure
+1586,1587c1595
+< almost like
+< all very
+---
+> all close
+1589a1598
+> very dangerous
+1593d1601
+< very early
+1596a1605,1606
+> very good
+> very good
+1599d1608
+< how reasonable
+1600a1610
+> all extreme
+1605d1614
+< very senior
+1607d1615
+< all medical
+1610a1619
+> nearly harsh
+1612,1613c1621,1622
+< how safe
+< about serious
+---
+> much applicable
+> much common
+1618,1619c1627
+< most other
+< how little
+---
+> much characteristic
+1624c1632,1633
+< about medical
+---
+> about close
+> half middle
+1625a1635,1637
+> almost wide
+> about close
+> half middle
+1626a1639
+> almost wide
+1627a1641
+> right fit
+1633d1646
+< most recent
+1634a1648,1649
+> very expensive
+> much painful
+1636d1650
+< all nuclear
+1640c1654
+< how far
+---
+> almost absent
+1644d1657
+< very small
+1646c1659
+< all new
+---
+> very faint
+1648,1650c1661,1663
+< how public
+< all nuclear
+< all future
+---
+> how changing
+> how working
+> most growing
+1656c1669
+< all pretty
+---
+> all funny
+1666d1678
+< fairly recent
+1670d1681
+< all official
+1674c1685
+< about various
+---
+> much devoted
+1677,1678c1688
+< much like
+< most controversial
+---
+> right limited
+1682d1691
+< little overseas
+1688a1698
+> much likely
+1690c1700
+< about military
+---
+> highly well
+1696d1705
+< most senior
+1697a1707
+> all approved
+1699c1709
+< mostly sleeping
+---
+> much clean
+1702d1711
+< all racial
+1708d1716
+< about fatal
+1714c1722,1724
+< little economic
+---
+> much possible
+> how able
+> how unclear
+1717a1728
+> much subtle
+1723d1733
+< most recent
+1724a1735
+> almost old
+1727a1739
+> almost old
+1732c1744
+< most severe
+---
+> about curious
+1736a1749
+> how close
+1742c1755
+< nearly pure
+---
+> most white
+1744c1757
+< most serious
+---
+> much comfortable
+1747d1759
+< about young
+1748a1761
+> how popular
+1756,1757d1768
+< mostly conservative
+< all human
+1760a1772,1773
+> all content
+> much fortunate
+1761a1775
+> most sound
+1766a1781,1782
+> completely different
+> distinctly grim
+1768a1785,1786
+> almost old
+> much financial
+1770,1774c1788,1789
+< about kind
+< about kind
+< all racial
+< most remote
+< most serious
+---
+> all equal
+> much comfortable
+1779a1795,1797
+> most liberal
+> most different
+> clearly comfortable
+1783a1802
+> about happy
+1784a1804,1805
+> most elected
+> most elected
+1791c1812,1814
+< pretty well
+---
+> most concerned
+> pretty integrated
+> much devoted
+1795c1818
+< highly emotional
+---
+> all good
+1796a1820
+> exactly rival
+1798c1822
+< about little
+---
+> right right
+1800a1825
+> about growing
+1802a1828,1829
+> very high
+> essentially double
+1804d1830
+< about additional
+1806a1833
+> all old
+1808a1836
+> all bad
+1809a1838
+> precisely determined
+1811a1841
+> about small
+1813d1842
+< rather strong
+1817,1818c1846
+< how low
+< about potential
+---
+> little known
+1821d1848
+< how imminent
+1826a1854,1856
+> much frequent
+> dead left
+> most closed
+1830,1831c1860
+< about running
+< relatively minor
+---
+> much improved
+1832a1862
+> much moderate
+1835d1864
+< most recent
+1846c1875
+< exactly like
+---
+> almost raised
+1850a1880
+> much like
+1855d1884
+< nearly far
+1863a1893,1894
+> much afraid
+> really clear
+1865d1895
+< nearly universal
+1869c1899
+< about possible
+---
+> how distributed
+1874a1905
+> most likely
+1876d1906
+< all new
+1878d1907
+< mostly outside
+1880a1910,1911
+> about bad
+> much reasonable
+1882a1914
+> really absent
+1885c1917
+< purely medical
+---
+> precisely determined
+1888d1919
+< all new
+1892d1922
+< pretty sunny
+1895,1896d1924
+< much like
+< about corporate
+1897a1926
+> indeed used
+1899c1928
+< about everyday
+---
+> much known
+1904d1932
+< about other
+1909d1936
+< most recent
+1910a1938
+> right front
+1917a1946,1947
+> how virtual
+> nearly well
+1919a1950
+> how perceived
+1926,1927d1956
+< all white
+< all legal
+1928a1958
+> really interesting
+1929a1960
+> all impressive
+1931a1963
+> much current
+1938,1939c1970
+< most elaborate
+< about general
+---
+> mostly used
+1948d1978
+< all civil
+1950a1981
+> about well
+1952c1983
+< much like
+---
+> exactly realistic
+1954d1984
+< much like
+1957d1986
+< about racial
+1959d1987
+< fully interactive
+1963,1964c1991
+< about underground
+< about first
+---
+> rather familiar
+1966,1967d1992
+< little white
+< little other
+1971,1973d1995
+< all political
+< all missing
+< mostly white
+1975d1996
+< all previous
+1976a1998
+> almost closed
+1988,1989c2010,2011
+< about federal
+< most international
+---
+> much flexible
+> most armed
+1991a2014,2015
+> largely left
+> simply gay
+1997,1998d2020
+< most past
+< about current
+1999a2022
+> most controversial
+2001c2024
+< slightly above
+---
+> dead added
+2005a2029
+> much dangerous
+2009c2033,2034
+< how corporate
+---
+> how open
+> much likely
+2011d2035
+< very very
+2013c2037
+< enormously talented
+---
+> very interesting
+2016d2039
+< most federal
+2022d2044
+< how great
+2024d2045
+< little public
+2026d2046
+< most dynamic
+2029c2049,2050
+< almost like
+---
+> almost fit
+> very thin
+2031a2053
+> all material
+2034d2055
+< most recent
+2036,2037d2056
+< substantially above
+< about early
+2038a2058
+> actually large
+2041,2043c2061
+< much like
+< all previous
+< about selective
+---
+> most small
+2044a2063
+> indeed attractive
+2053a2073
+> precisely dramatic
+2054a2075,2076
+> how paid
+> how paid
+2060,2061c2082,2084
+< almost like
+< most federal
+---
+> almost fit
+> actually large
+> right difficult
+2063d2085
+< most basic
+2066a2089
+> very alive
+2068c2091
+< how revolutionary
+---
+> how used
+2074d2096
+< most basic
+2076d2097
+< about corporate
+2078d2098
+< much like
+2081d2100
+< very large
+2083a2103
+> about deep
+2084a2105
+> nearly heavy
+2086d2106
+< most popular
+2089a2110
+> right applied
+2095a2117,2118
+> very commercial
+> very commercial
+2100d2122
+< how weak
+2103d2124
+< about musical
+2106c2127
+< all involved
+---
+> all sure
+2111d2131
+< pretty obscure
+2114d2133
+< pretty obscure
+2116d2134
+< pretty obscure
+2120a2139
+> much dramatic
+2123c2142,2143
+< all popular
+---
+> much long
+> most known
+2126a2147
+> all clear
+2127a2149
+> how used
+2130d2151
+< most powerful
+2134a2156
+> partly resulting
+2136a2159
+> very easy
+2142c2165
+< all fair
+---
+> how close
+2143a2167
+> dead left
+2145c2169,2171
+< most serious
+---
+> much lost
+> most diverse
+> much unclear
+2147c2173
+< all remaining
+---
+> about worried
+2148a2175
+> all clear
+2156a2184
+> most involved
+2165a2194,2195
+> very unusual
+> actually head
+2168d2197
+< half just
+2170a2200
+> much complicated
+2172c2202,2203
+< all military
+---
+> most diverse
+> very emotional
+2176,2177c2207
+< all nuclear
+< most widespread
+---
+> rather permanent
+2178a2209
+> most involved
+2180c2211,2212
+< little above
+---
+> most continued
+> little little
+2182d2213
+< much liquid
+2186,2188c2217
+< most offensive
+< about other
+< about actual
+---
+> all involved
+2189a2219
+> how alive
+2191,2192d2220
+< about other
+< about alleged
+2197,2198c2225
+< all last
+< about economic
+---
+> slightly varied
+2200a2228
+> how able
+2202c2230
+< most ancient
+---
+> really like
+2204d2231
+< quite like
+2207a2235,2236
+> most diverse
+> much lost
+2212d2240
+< little international
+2213a2242
+> dead left
+2214a2244
+> dead supposed
+2217d2246
+< most notorious
+2218a2248
+> mostly used
+2221d2250
+< most notorious
+2227a2257,2258
+> fairly moving
+> much given
+2229d2259
+< mostly hidden
+2230a2261
+> right poor
+2233d2263
+< most significant
+2238a2269
+> all quiet
+2241a2273
+> dead estimated
+2243d2274
+< most prominent
+2247,2248d2277
+< all nuclear
+< highly ambiguous
+2250a2280
+> about concerned
+2256c2286
+< all military
+---
+> dead estimated
+2258,2259c2288
+< all new
+< most critical
+---
+> much willing
+2263c2292
+< really just
+---
+> most wrong
+2265,2266d2293
+< most recent
+< all required
+2269a2297
+> right far
+2271a2300,2301
+> all involved
+> little known
+2274d2303
+< all eligible
+2277d2305
+< greatly increased
+2278a2307
+> half square
+2280,2281c2309
+< most still
+< almost like
+---
+> all angry
+2283c2311
+< most still
+---
+> much satisfied
+2286d2313
+< about growing
+2287a2315
+> dead left
+2291d2318
+< most persistent
+2298c2325
+< very strict
+---
+> precisely kind
+2300,2303d2326
+< about cultural
+< about content
+< all military
+< all military
+2304a2328
+> dead left
+2307,2309d2330
+< all military
+< mostly pregnant
+< all sick
+2311a2333
+> essentially safe
+2314d2335
+< all military
+2316,2317c2337,2338
+< about increasing
+< all good
+---
+> much wealthy
+> much simple
+2323d2343
+< slightly sweet
+2324a2345
+> indeed fit
+2335d2355
+< how great
+2336a2357,2358
+> all content
+> almost redundant
+2348a2371
+> most unfamiliar
+2350c2373
+< very attractive
+---
+> all excellent
+2354c2377
+< about working
+---
+> indeed left
+2356c2379,2380
+< about moving
+---
+> most controlled
+> all clear
+2368c2392
+< much potential
+---
+> utterly loyal
+2372,2373d2395
+< much like
+< most recent
+2379d2400
+< most political
+2384a2406
+> mostly used
+2386c2408
+< all federal
+---
+> much ambitious
+2395d2416
+< almost hidden
+2397d2417
+< almost hidden
+2398a2419,2420
+> almost bitter
+> most live
+2400d2421
+< little like
+2402,2403c2423
+< most recent
+< much like
+---
+> really able
+2414a2435
+> how direct
+2416a2438
+> how useless
+2417a2440
+> how broken
+2422,2424c2445,2448
+< about appropriate
+< most ancient
+< very ancient
+---
+> really final
+> all fun
+> how used
+> much present
+2425a2450
+> most free
+2429c2454
+< most powerful
+---
+> almost left
+2432a2458,2459
+> much likely
+> about known
+2435d2461
+< very special
+2438d2463
+< most financial
+2440a2466
+> how paid
+2441a2468
+> most free
+2443a2471
+> all free
+2447d2474
+< all wonderful
+2450c2477,2478
+< about black
+---
+> much changing
+> most free
+2452,2453d2479
+< how easy
+< about gay
+2456c2482
+< most complex
+---
+> most offensive
+2460c2486
+< really tense
+---
+> almost opposed
+2463c2489
+< how open
+---
+> really upset
+2467d2492
+< much political
+2469d2493
+< all military
+2472,2473c2496,2497
+< most active
+< about proposed
+---
+> about thinking
+> most sensitive
+2476a2501
+> right constitutional
+2480a2506
+> all left
+2483d2508
+< how controversial
+2485c2510,2511
+< how federal
+---
+> right due
+> most free
+2495d2520
+< almost hidden
+2498c2523
+< almost hidden
+---
+> almost bad
+2499a2525
+> almost bad
+2503a2530
+> very alive
+2505d2531
+< about racial
+2506a2533
+> most available
+2509d2535
+< most influential
+2510a2537,2538
+> little possible
+> about worried
+2512a2541
+> almost bad
+2514d2542
+< most major
+2518d2545
+< much literary
+2521,2522d2547
+< about public
+< very elaborate
+2523a2549
+> slightly raised
+2525d2550
+< little wooden
+2527,2528c2552
+< how good
+< very well
+---
+> very right
+2531d2554
+< much like
+2542a2566
+> how smart
+2544a2569
+> much controversial
+2545a2571
+> slightly optimistic
+2548d2573
+< much literary
+2552a2578
+> most white
+2554d2579
+< much visual
+2556a2582
+> all revised
+2562,2564c2588,2589
+< about mental
+< all public
+< all temporary
+---
+> especially elderly
+> how open
+2566d2590
+< strictly illegal
+2568,2569d2591
+< about widespread
+< about homosexual
+2571a2594
+> partly easy
+2573,2575c2596
+< most common
+< how small
+< most perfect
+---
+> substantially related
+2576a2598
+> almost dramatic
+2581d2602
+< much like
+2590,2591c2611
+< how close
+< little political
+---
+> wholly devoted
+2594a2615
+> actually open
+2596a2618,2619
+> hardly closed
+> especially crazy
+2606a2630,2632
+> hardly romantic
+> most increased
+> all high
+2610d2635
+< most popular
+2612a2638
+> dead left
+2615a2642,2643
+> most powerful
+> absolutely pleased
+2620a2649
+> dead injured
+2635d2663
+< how future
+2636a2665
+> all lost
+2639c2668
+< about major
+---
+> most reduced
+2641,2642c2670,2672
+< about domestic
+< largely rural
+---
+> half growing
+> half slow
+> mostly correct
+2643a2674,2675
+> how written
+> dead left
+2645c2677
+< completely separate
+---
+> somewhat difficult
+2650c2682,2683
+< all significant
+---
+> simply aware
+> all running
+2652,2655c2685
+< about potential
+< very close
+< about civil
+< all political
+---
+> most agreed
+2658,2660c2688,2689
+< all due
+< about domestic
+< very little
+---
+> most powerful
+> nearly minute
+2664a2694
+> much paid
+2666c2696
+< much municipal
+---
+> about concerned
+2672a2703
+> most powerful
+2675,2676d2705
+< all heavy
+< most comprehensive
+2679d2707
+< most frequent
+2680a2709
+> especially clear
+2681a2711,2712
+> right paid
+> slightly increased
+2686d2716
+< about domestic
+2691a2722
+> much controversial
+2693c2724
+< really well
+---
+> much controversial
+2702,2703c2733
+< how flexible
+< how popular
+---
+> most successful
+2705a2736
+> all important
+2709a2741
+> relatively skilled
+2711d2742
+< right extended
+2713a2745
+> simply necessary
+2715d2746
+< all small
+2718a2750
+> very intensive
+2721a2754
+> all tough
+2723,2725c2756,2757
+< about other
+< rather dense
+< much fun
+---
+> all missing
+> much large
+2727c2759,2761
+< most elegant
+---
+> simply capable
+> how developed
+> mostly male
+2731d2764
+< all native
+2733a2767,2768
+> most advanced
+> most sensitive
+2743c2778
+< much literary
+---
+> all real
+2749c2784,2785
+< about underground
+---
+> slightly increased
+> rather familiar
+2752d2787
+< totally fun
+2756d2790
+< about foreign
+2763c2797
+< extremely close
+---
+> extremely intimate
+2765d2798
+< about changing
+2767,2768c2800
+< all political
+< mostly symbolic
+---
+> most closed
+2771c2803,2804
+< most senior
+---
+> most official
+> all written
+2773a2807
+> little known
+2777d2810
+< how dark
+2779d2811
+< all necessary
+2786c2818
+< little long-term
+---
+> most paid
+2788a2821
+> entirely lost
+2791a2825
+> right important
+2792a2827
+> much mean
+2797,2798d2831
+< all racial
+< most recent
+2803d2835
+< about legal
+2806a2839
+> how live
+2809c2842,2845
+< enormously wealthy
+---
+> how able
+> most able
+> dead left
+> most known
+2812,2813d2847
+< all small
+< all small
+2818d2851
+< very strong
+2822,2824d2854
+< very strict
+< most notable
+< all relevant
+2827d2856
+< almost double
+2829d2857
+< how difficult
+2833c2861
+< most legal
+---
+> how planned
+2836a2865,2866
+> especially serious
+> perfectly fit
+2840d2869
+< how very
+2848d2876
+< all political
+2849a2878
+> most experienced
+2857d2885
+< about rural
+2858a2887
+> most powerful
+2863d2891
+< all public
+2865d2892
+< most intense
+2867a2895
+> much effective
+2873d2900
+< most interactive
+2878a2906,2907
+> all good
+> dead living
+2882a2912
+> hardly likely
+2889a2920
+> simply striking
+2892d2922
+< almost double
+2895,2896d2924
+< all experienced
+< all illegal
+2902d2929
+< most privileged
+2904c2931,2932
+< all other
+---
+> all good
+> all handsome
+2905a2934
+> all fascinating
+2910d2938
+< most recent
+2914c2942
+< all political
+---
+> largely limited
+2921d2948
+< most federal
+2927a2955
+> all agreed
+2929d2956
+< almost total
+2935c2962,2963
+< much political
+---
+> really final
+> much vulnerable
+2937d2964
+< all federal
+2940d2966
+< about major
+2942,2944d2967
+< very concerned
+< all clear
+< how little
+2948,2949c2971
+< most prominent
+< all military
+---
+> most limited
+2952c2974
+< all political
+---
+> how used
+2954a2977
+> most agreed
+2959a2983
+> really nervous
+2960a2985
+> little left
+2965c2990
+< about normal
+---
+> how related
+2967d2991
+< most immediate
+2972a2997
+> most wealthy
+2977,2978d3001
+< all federal
+< all federal
+2981c3004
+< very very
+---
+> very happy
+2984c3007,3008
+< all good
+---
+> all incredible
+> slightly increased
+2988,2990c3012
+< all other
+< all recent
+< all general
+---
+> somewhat attractive
+2992d3013
+< about internal
+2999,3000d3019
+< all federal
+< all federal
+3004c3023,3024
+< most economic
+---
+> mostly left
+> right left
+3006c3026
+< most economic
+---
+> how mixed
+3007a3028
+> how mixed
+3011a3033
+> about only
+3013,3014d3034
+< much like
+< most interesting
+3020d3039
+< much middle
+3025,3026d3043
+< all gay
+< all parental
+3029a3047
+> very live
+3030a3049,3050
+> really mixed
+> much expensive
+3035a3056,3057
+> much organic
+> totally coming
+3036a3059
+> all aware
+3041d3063
+< almost daily
+3043c3065
+< most recent
+---
+> most allied
+3045c3067
+< all official
+---
+> right left
+3048a3071,3072
+> all injured
+> dead left
+3050a3075,3077
+> how brave
+> really strong
+> all vivid
+3056d3082
+< about nuclear
+3060a3087
+> quite dark
+3062c3089
+< most popular
+---
+> most far
+3065a3093
+> mostly running
+3066a3095,3096
+> little far
+> slightly increased
+3072a3103
+> right left
+3074,3076c3105
+< about current
+< about medical
+< about human
+---
+> all involved
+3080d3108
+< all other
+3083,3084d3110
+< all corporate
+< little direct
+3087d3112
+< completely alone
+3091c3116,3118
+< most valuable
+---
+> most afraid
+> dead left
+> right secure
+3098d3124
+< most pleasant
+3099a3126,3127
+> most nice
+> very nice
+3102a3131
+> much effective
+3104,3105d3132
+< about human
+< about human
+3108,3110c3135
+< about current
+< about medical
+< about human
+---
+> all involved
+3112d3136
+< little real
+3113a3138
+> very vigorous
+3116a3142
+> dead left
+3118c3144
+< little direct
+---
+> slightly significant
+3121c3147
+< little direct
+---
+> how injured
+3122a3149
+> simply short
+3123a3151
+> right left
+3130d3157
+< how big
+3132d3158
+< all fellow
+3133a3160
+> much conservative
+3143,3144c3170
+< much like
+< all political
+---
+> nearly big
+3147a3174
+> much positive
+3149d3175
+< how complex
+3160a3187
+> how reduced
+3161a3189
+> mostly very
+3164d3191
+< how future
+3167,3168d3193
+< most domestic
+< most other
+3171d3195
+< precisely relative
+3179d3202
+< most powerful
+3181d3203
+< about coming
+3183d3204
+< most controversial
+3185a3207
+> much worried
+3190a3213
+> how present
+3191a3215
+> right established
+3197c3221,3222
+< much new
+---
+> quite grand
+> right established
+3199a3225
+> much awkward
+3201d3226
+< about abstract
+3204a3230
+> dead given
+3209a3236
+> all alert
+3210a3238
+> little known
+3213a3242
+> how applied
+3215d3243
+< about legal
+3219d3246
+< most commercial
+3222d3248
+< really only
+3227a3254,3257
+> all above
+> fairly concerned
+> all above
+> about huge
+3229a3260
+> about huge
+3232d3262
+< relatively fixed
+3235c3265
+< most recent
+---
+> hardly aware
+3238,3239c3268
+< about cultural
+< most prominent
+---
+> most elected
+3240a3270,3271
+> especially sexual
+> almost unlikely
+3242c3273
+< most new
+---
+> much conscious
+3244d3274
+< most common
+3246d3275
+< little brown
+3251d3279
+< highly successful
+3252a3281,3282
+> entirely written
+> mostly written
+3253a3284,3285
+> much mighty
+> really simple
+3255d3286
+< how little
+3258a3290,3291
+> half independent
+> half independent
+3260a3294,3296
+> right striking
+> all fat
+> simply possible
+3261a3298
+> half reduced
+3264d3300
+< most exclusive
+3265a3302
+> little well
+3269,3270d3305
+< about running
+< very special
+3277a3313
+> about passionate
+3278a3315
+> all material
+3285d3321
+< most hot
+3287a3324,3325
+> really accessible
+> very good
+3291a3330
+> little big
+3293c3332
+< most prominent
+---
+> about sure
+3294a3334
+> nearly marked
+3296a3337
+> largely limited
+3299,3301c3340
+< how little
+< how unclear
+< all natural
+---
+> indeed leading
+3303d3341
+< most modern
+3305c3343,3344
+< most rare
+---
+> partly real
+> little known
+3307a3347,3348
+> very common
+> especially common
+3309d3349
+< about ill
+3311d3350
+< most new
+3315c3354,3356
+< all public
+---
+> especially reasonable
+> most due
+> nearly rich
+3317a3359
+> most agreed
+3318a3361
+> broadly applied
+3319a3363
+> most competitive
+3322d3365
+< most future
+3324a3368
+> technically agreed
+3328d3371
+< all ideological
+3331c3374
+< most constitutional
+---
+> half approved
+3332a3376
+> simply following
+3334a3379
+> most careful
+3336c3381
+< most top
+---
+> substantially rising
+3340,3341d3384
+< all local
+< essentially central
+3342a3386
+> most elected
+3347a3392
+> half able
+3349a3395
+> really amazing
+3351d3396
+< all subtle
+3354d3398
+< most objective
+3356,3357c3400,3402
+< all young
+< about moving
+---
+> how known
+> right added
+> all afraid
+3359,3360c3404
+< halfway back
+< largely due
+---
+> much anxious
+3364a3409
+> indeed tight
+3366a3412,3413
+> technically sophisticated
+> especially sophisticated
+3374d3420
+< about just
+3377,3379c3423
+< all federal
+< about selective
+< pretty standard
+---
+> simply raised
+3381d3424
+< how scared
+3383d3425
+< about mixed
+3385a3428
+> mostly positive
+3386a3430
+> much anxious
+3388d3431
+< almost invisible
+3397a3441
+> about worried
+3400,3401d3443
+< about foreign
+< most creative
+3407c3449
+< especially international
+---
+> much clear
+3410a3453
+> almost obvious
+3412d3454
+< how little
+3413a3456
+> barely wide
+3414a3458
+> very alive
+3416c3460
+< about key
+---
+> almost level
+3419,3420c3463
+< most remote
+< all different
+---
+> really bad
+3421a3465
+> much difficult
+3422a3467
+> really like
+3429d3473
+< how married
+3431,3432c3475,3476
+< all international
+< most varied
+---
+> technically magical
+> all above
+3435d3478
+< how mean
+3443d3485
+< most astonishing
+3444a3487,3488
+> much dangerous
+> most living
+3449a3494
+> much effective
+3451a3497
+> most used
+3453a3500
+> most controlled
+3455a3503
+> right left
+3465,3466d3512
+< about possible
+< all presidential
+3471a3518
+> much costly
+3474d3520
+< all major
+3476a3523
+> all essential
+3482d3528
+< very coastal
+3487d3532
+< all recent
+3490c3535,3536
+< most senior
+---
+> dead left
+> mostly dead
+3492d3537
+< about rising
+3496a3542
+> all like
+3498,3499d3543
+< much like
+< most popular
+3504,3505d3547
+< most valuable
+< how senior
+3513a3556,3558
+> technically complicated
+> how paid
+> about moving
+3519d3563
+< much public
+3525d3568
+< really just
+3528a3572
+> really fit
+3532d3575
+< about like
+3540a3584
+> actually necessary
+3549d3592
+< about vacant
+3552a3596
+> very aware
+3554a3599
+> right wrong
+3556d3600
+< most significant
+3559a3604
+> little left
+3561d3605
+< actually just
+3562a3607
+> about upset
+3564,3565c3609
+< all great
+< exactly religious
+---
+> widely written
+3568c3612
+< nearly full
+---
+> really positive
+3571d3614
+< most religious
+3577c3620,3624
+< about like
+---
+> indeed high
+> all live
+> actually likely
+> slightly likely
+> very aware
+3579a3627
+> right wrong
+3581c3629,3631
+< about underground
+---
+> partly official
+> partly official
+> rather familiar
+3584d3633
+< totally fun
+3586c3635
+< most prominent
+---
+> actually left
+3589,3591d3637
+< about like
+< entirely separate
+< how widespread
+3594d3639
+< about traditional
+3595a3641,3642
+> all fun
+> almost used
+3597a3645
+> how raised
+3604a3653
+> absolutely changing
+3608d3656
+< most senior
+3609a3658,3659
+> much given
+> really tough
+3614a3665
+> much given
+3616,3619c3667
+< all federal
+< all federal
+< all federal
+< all federal
+---
+> half long
+3625a3674
+> essentially double
+3628d3676
+< all common
+3631a3680
+> essentially back
+3639d3687
+< all public
+3642,3647c3690,3691
+< all federal
+< how strict
+< all federal
+< about military
+< most federal
+< all racial
+---
+> all working
+> dead left
+3649d3692
+< most official
+3657d3699
+< most profound
+3659a3702
+> very tough
+3661a3705
+> right sure
+3663,3664c3707
+< much like
+< much like
+---
+> how damp
+3668d3710
+< about changing
+3669a3712
+> all material
+3670a3714
+> much like
+3672d3715
+< all political
+3673a3717
+> much clear
+3676c3720
+< much financial
+---
+> most paid
+3682,3684c3726
+< most notorious
+< how certain
+< most recent
+---
+> most running
+3689a3732
+> very controlled
+3692,3693c3735,3736
+< quite like
+< nearly still
+---
+> very tough
+> how fit
+3696a3740,3741
+> very tough
+> how fit
+3698,3699d3742
+< about like
+< most notorious
+3701,3703c3744
+< most recent
+< how certain
+< most recent
+---
+> most running
+3708,3709c3749
+< all federal
+< all federal
+---
+> almost used
+3716,3718c3756
+< little old
+< little old
+< all municipal
+---
+> entirely devoted
+3721c3759
+< all other
+---
+> how married
+3723d3760
+< how creative
+3726d3762
+< almost like
+3728,3729d3763
+< about gay
+< relatively new
+3730a3765
+> how rear
+3732,3733c3767
+< about gay
+< most gay
+---
+> very clear
+3739,3741d3772
+< much like
+< much like
+< about military
+3744d3774
+< little like
+3747c3777
+< most creative
+---
+> exactly tired
+3750d3779
+< most like
+3751a3781
+> all remarkable
+3756c3786
+< most senior
+---
+> really paid
+3761d3790
+< highly personal
+3763d3791
+< how very
+3767d3794
+< about walking
+3772a3800
+> almost verbal
+3773a3802
+> rather honest
+3775a3805
+> quite predictable
+3780c3810
+< most persistent
+---
+> simply opposed
+3782c3812
+< how brave
+---
+> actually kind
+3790,3791c3820
+< exactly like
+< about stolen
+---
+> much effective
+3792a3822
+> especially concerned
+3794,3796d3823
+< almost spiritual
+< most glorious
+< most big
+3801a3829
+> how rich
+3803d3830
+< little immediate
+3805a3833
+> very high
+3807c3835
+< actually pretty
+---
+> actually safe
+3809d3836
+< much inherent
+3812,3813d3838
+< half full
+< half empty
+3821c3846,3847
+< all very
+---
+> all acceptable
+> all painful
+3824c3850
+< much alone
+---
+> most responsible
+3828d3853
+< how private
+3833c3858
+< very little
+---
+> most content
+3836a3862
+> right established
+3839d3864
+< all religious
+3842d3866
+< how easy
+3844,3847c3868
+< most remote
+< little political
+< all hostile
+< simply religious
+---
+> dead left
+3850a3872
+> especially slow
+3855d3876
+< very early
+3858,3859c3879
+< very formidable
+< most prominent
+---
+> widely possible
+3861a3882,3883
+> really desperate
+> very high
+3864c3886
+< actually pretty
+---
+> actually safe
+3866d3887
+< little mental
+3868,3871d3888
+< most political
+< all federal
+< all public
+< about social
+3874a3892,3893
+> dead left
+> little possible
+3876d3894
+< mostly black
+3879d3896
+< strictly religious
+3883c3900
+< very well
+---
+> very aware
+3884a3902
+> all fun
+3887c3905,3906
+< highly political
+---
+> rather justified
+> most black
+3891c3910
+< about renewed
+---
+> very high
+3893a3913
+> purely natural
+3898d3917
+< how big
+3907c3926
+< most recent
+---
+> much unhappy
+3913c3932,3934
+< really bad
+---
+> all intelligent
+> much intelligent
+> incredibly successful
+3919d3939
+< about sexual
+3921a3942,3943
+> right given
+> right available
+3923c3945
+< indeed big
+---
+> all right
+3927a3950
+> all able
+3930a3954
+> dead alive
+3934a3959
+> quite simple
+3940d3964
+< about growing
+3941a3966
+> all important
+3947d3971
+< about popular
+3950d3973
+< all other
+3954c3977
+< quite splendid
+---
+> all right
+3956d3978
+< almost like
+3959c3981,3982
+< all commercial
+---
+> pretty good
+> right only
+3961,3962c3984
+< how dangerous
+< most urgent
+---
+> clearly spoken
+3969d3990
+< about vast
+3970a3992
+> much possible
+3975d3996
+< all other
+3983,3986c4004
+< most mutual
+< how dramatic
+< all early
+< little like
+---
+> especially unusual
+3987a4006
+> all far
+3993c4012,4013
+< most controversial
+---
+> half raised
+> really stunning
+3998c4018
+< little immediate
+---
+> little known
+3999a4020,4021
+> how used
+> especially lacking
+4002d4023
+< largely rural
+4004c4025
+< all expected
+---
+> much early
+4005a4027,4028
+> half genetic
+> half psychological
+4007c4030
+< about absent
+---
+> mostly known
+4009d4031
+< much like
+4012a4035
+> indeed weak
+4013a4037,4039
+> all good
+> dead left
+> about angry
