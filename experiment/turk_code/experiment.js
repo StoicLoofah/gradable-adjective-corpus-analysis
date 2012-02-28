@@ -29,7 +29,6 @@ function randPermutation(array){
 
 var stimuli = [
 {"trial": 0, "isCatch": 0, "phrase": "slightly private"}, // -3.07838002608
-/*
 {"trial": 1, "isCatch": 0, "phrase": "highly present"}, // -2.45027490084
 {"trial": 2, "isCatch": 0, "phrase": "purely effective"}, // -5.39134128637
 {"trial": 3, "isCatch": 0, "phrase": "pretty economic"}, // -4.59188049934
@@ -129,7 +128,6 @@ var stimuli = [
 {"trial": 97, "isCatch": 0, "phrase": "half legal"}, // 3.02196353748
 {"trial": 98, "isCatch": 0, "phrase": "absolutely free"}, // 3.39921021787
 {"trial": 99, "isCatch": 0, "phrase": "mostly clear"}, // 3.54175972211
-*/
 {"trial": 100, "isCatch": 2, "phrase": "Please select 2"},
 {"trial": 101, "isCatch": 6, "phrase": "Please select 6"}
 	       ]
