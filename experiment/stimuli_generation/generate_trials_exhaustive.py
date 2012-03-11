@@ -2,6 +2,10 @@ import string
 import random
 import math
 
+'''
+used for experiment 2
+'''
+
 short_list = True
 num_stimuli = 100
 folder = '../../data/word_sets/kennedy/'

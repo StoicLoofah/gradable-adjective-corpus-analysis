@@ -1,0 +1,144 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: Palatino Linotype, Bookman Antiqua, Palatino, serif;
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+	width: 95%;
+	height: 95%;
+}
+
+input, select, button {font-family: Georgia, serif; font-size: 14px;}
+
+button {
+	background: url(images/button-gradient.png);
+	border: 1px solid #999;
+	border-top: 1px solid #e0e0e0;
+	border-left: 1px solid #e0e0e0;
+	margin: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	height: 29px;
+	min-width: 70px;
+	align: center;
+}
+
+
+#content{
+    text-align:left;
+    width:600px;
+    margin:auto;
+}
+
+.block-text {
+  width: 500px;
+  text-align: justify;
+  margin: 0 auto;
+  margin-bottom: 1em;
+}
+
+.panel{
+    display:none;
+}
+
+.text{
+    margin:20px 0 0;
+}
+
+.reminder{
+    font-size:12px;
+    color:gray;
+}
+
+.premise{
+    margin:40px 0 0;
+    font-size:18px;
+}
+
+.phrase{
+    margin:50px 0;
+    font-size:1.5em;
+	text-align: center;
+}
+
+.next{
+	margin: 20px auto;
+	text-align: center;
+	display: block;
+	width: 50px;
+}
+
+#instructions {
+  text-align: center;
+}
+
+.ratings{
+    margin:0 auto;
+}
+
+table.ratings th, table.ratings td{
+    padding: 0 10px;
+}
+
+.progress{
+    float:right;
+}
+
+.progress span{
+    position:relative;
+    top: -6px;
+}
+
+.bar-wrapper{
+    height:20px;
+    width:200px;
+    border:1px solid #000000;
+    display:inline-block;
+}
+
+.bar{
+    position:relative;
+    height:100%;
+    width:0px;
+    background-color:#000000
+}
+
+.question{
+    margin:10px 0;
+}
+
+.question ul{
+    list-style:none;
+    padding:0;
+    line-height:20px;
+    margin:0;
+}
+
+.question input{
+    margin:0 10px 0 5px;
+}
+
+.question textarea{
+    margin:5px 0;
+}
+td {
+    padding: 0 5px;
+    }
+#results {
+    height: 200px;
+    }
+
+.indent {
+    margin-left: 20px;
+    }
+.natural, .grammatical {
+    display: none;
+}
+
+#legal {
+  margin: 0 auto;
+  margin-top: 1.5em;
+  font-size: 0.8em;
+}
+

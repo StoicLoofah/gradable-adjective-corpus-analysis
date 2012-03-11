@@ -2,6 +2,10 @@ import string
 import random
 import math
 
+'''
+used for experiment 1
+'''
+
 short_list = True
 num_stimuli = 100
 

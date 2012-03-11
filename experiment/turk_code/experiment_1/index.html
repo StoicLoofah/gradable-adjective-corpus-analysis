@@ -1,0 +1,179 @@
+<html>
+  <head>
+    <title>Experiment</title>
+
+    <link href="style.css" rel="stylesheet" type="text/css"
+    media="screen" />
+<script type="text/javascript" src="mmturkey.0.5.js"></script>
+    <script type="text/javascript" src="jquery.min.js"></script>
+
+  </head>
+	<body>
+		<div id="content">
+		<div class="progress">
+			<span>Progress:</span>
+			<div class="bar-wrapper">
+	  			<div class="bar"></div>
+			</div>
+		</div>
+      <div style="clear:both;"></div>
+
+      <div class="panel" panel="intro">
+
+ <img src="lablogo.png" style="display: block; margin: 0 auto;">
+		<p id="logo-text" style="text-align: center;"><b>Stanford Computation and Cognition Lab</b></p>
+	<p class="block-text">In this experiment, you will see
+  some phrases displayed on the screen and you will be asked a
+		question about each phrase. The experiment should take
+		about 10 minutes.
+	</p>
+	<p class="block-text"><b>Please do this experiment <u>only</u>
+  if you are a native speaker of English, i.e. if English was the
+  language spoken in your home when you are a child.</b> If you are not a
+  native English speaker, your results will be invalid.</p>
+
+	<input type="button" class="next" value="Begin" />
+    <p class="block-text" id="mustaccept">
+You must accept the HIT in order to continue.
+  </p>
+
+	<p class="block-text" id="legal">Legal information: By answering the
+		following questions, you are participating in a study being performed by
+		cognitive scientists in the Stanford Department of Psychology. If you have
+		questions about this research, please contact Dan
+		Lassiter at <a
+		href="danlassiter@stanford.edu">danlassiter@stanford.edu</a>
+		or Noah Goodman at ngoodman@stanford.edu. You must be  at least 18 years old to
+		participate. Your participation in this research is voluntary. You may
+		decline to answer any or all of the following questions. You may decline
+		further participation, at any time, without adverse consequences. Your
+		anonymity is assured; the researchers who have requested your
+		participation will not receive any personal information about you.</p>
+</div>
+
+
+<div class="panel" panel="instructions">
+	<div class="instructions natural">
+	  <p>We're interested in how natural certain English phrases
+  and sentences sound to you. For example, many English speakers feel that the sentence </p>
+	  <p class="indent">Sam's speech infuriated completely Mary</p>
+	  <p>sounds somewhat strange, even though the similar
+	  sentences</p>
+	  <p class="indent">Sam's speech infuriated Mary completely</p>
+	  <p>and</p>
+	  <p class="indent">Sam's speech infuriated completely his audience on Saturday night</p>
+	  <p>sound much more natural. We're interested in these kinds
+  of feelings -- the feeling that a phrase or sentence is natural, in the sense that you would not find it surprising to hear a native English speaker say it in conversation. We will show you a number of phrases and ask you to make a judgment about how natural they sound.</p>
+	  <p>We are <u>not</u> concerned with whether the sentence would be graded highly by a writing teacher, whether it conforms with grammar rules that you might have learned in school, etc. We're only concerned with whether the sentences could be said by a native speaker of English in normal daily speech.</p>
+	  <p>For each phrase, we will ask you to select a radio button
+	  on a scale from 1 to 9, where 1 means that the sentence is
+	  completely unnatural and 9 means that it is completely
+	  natural. Don't think too hard about your answer -- there are
+	  no right or wrong answers, and this is not a memory or
+	  intelligence test. We are just interested in the first
+	  opinion you form about the sentences.</p>
+	</div>
+	<div class="instructions grammatical">
+	  <p>We're interested in whether you think certain phrases and
+  sentences are meaningful English, i.e. whether an English speaker could reasonably use this sentence to communicate an idea. For example, many speakers would judge that the sentence </p>
+	  <p class="indent">Sam's speech infuriated Mary happily</p>
+	  <p>could not be used by an English speaker to communicate a coherent idea. In contrast, it's easy to imagine the similar sentence</p>
+	  <p class="indent">Sam's speech infuriated Mary completely</p>
+	  <p>being used. We're interested in your intuitions about this issue: whether you think that a phrase or sentence could be used meaningfully by an English speaker. We will show you a number of sentences and ask you to make a judgment about this.</p>
+	  <p>We are <u>not</u> concerned with whether the phrase would be graded highly by a writing teacher, whether it conforms with grammar rules that you might have learned in school, etc. We're only concerned with whether the sentences could be said by a native speaker of English in normal daily speech.</p>
+	  <p>For each phrase, we will ask you to select a radio button
+	on a scale from 1 to 9, where 1 means that an English speaker
+	definitely <u>could not</u> use this sentence, and 9 means that an English speaker definitely <u>could</u> use this sentence. Don't think too hard about your answer -- there are no right or wrong answers, and this is not a memory or intelligence test. We are just interested in the first opinion you form about the sentences.</p>
+	</div>
+
+	<p>Please click the 'Next' button to continue.</p>
+	<input type="button" class="next" value="Next" />
+
+      </div>
+      <div id="content">
+      <div class="panel" panel="phrase">
+	<p class="phrase"></p>
+	<p class="grammatical" style="text-align: center;">Does this expression sound meaningful to you?</p>
+	<p class="natural" style="text-align: center;">How natural does this expression sounds to you?</p>
+	<table class="ratings">
+	  <tr>
+	    <th><label for="v1">1</label></th>
+	    <th><label for="v2">2</label></th>
+	    <th><label for="v3">3</label></th>
+	    <th><label for="v4">4</label></th>
+	    <th><label for="v5">5</label></th>
+	    <th><label for="v6">6</label></th>
+	    <th><label for="v7">7</label></th>
+	    <th><label for="v8">8</label></th>
+	    <th><label for="v9">9</label></th>
+	  </tr>
+	  <tr>
+	    <td><input class="rating" name="rating" type="radio" id="v1" value="1" /></td>
+	    <td><input class="rating" name="rating" type="radio" id="v2" value="2" /></td>
+	    <td><input class="rating" name="rating" type="radio" id="v3" value="3" /></td>
+	    <td><input class="rating" name="rating" type="radio" id="v4" value="4" /></td>
+	    <td><input class="rating" name="rating" type="radio" id="v5" value="5" /></td>
+	    <td><input class="rating" name="rating" type="radio" id="v6" value="6" /></td>
+	    <td><input class="rating" name="rating" type="radio" id="v7" value="7" /></td>
+	    <td><input class="rating" name="rating" type="radio" id="v8" value="8" /></td>
+	    <td><input class="rating" name="rating" type="radio" id="v9" value="9" /></td>
+	  </tr>
+	  <tr>
+	</table>
+	<div style="width: 450px; margin: 0 auto;">
+	  <div style="float: left;">
+	    <span class="natural">Completely Unnatural</span><span class="grammatical">Definitely not OK</span>
+	  </div>
+	  <div style="float: right;">
+	    <span class="natural">Completely Natural</span><span class="grammatical">Definitely OK</span>
+	  </div>
+	</div>
+	<div style="clear: both;"></div>
+	<input type="button" class="next" value="Next" />
+	<p class="message" style="color:red;"></p>
+      </div>
+      <div class="panel" panel="survey">
+	<div id="surveyform">
+	  <input type="hidden" name="action" value="survey" />
+	  <input type="hidden" name="subjectId" class="subjectId" value="-1" />
+	  <div class="question">
+	    <ul>
+	      <li>How old are you?</li>
+	      <li><label><input class="age" name="age" type="radio" value="1" />0-18</label></li>
+	      <li><label><input class="age" name="age" type="radio" value="2" />19-30</label></li>
+	      <li><label><input class="age" name="age" type="radio" value="3" />31-40</label></li>
+	      <li><label><input class="age" name="age" type="radio" value="4" />41-50</label></li>
+	      <li><label><input class="age" name="age" type="radio" value="5" />51-60</label></li>
+	      <li><label><input class="age" name="age" type="radio" value="6" />Over 60</label></li>
+	      <li><label><input class="age" name="age" type="radio" value="-1" />Decline to answer</label></li>
+	    </ul>
+	  </div>
+	  <div class="question">
+	    <ul>
+	      <li>What is your sex?</li>
+	      <li><label><input class="sex" name="sex" type="radio" value="M" />Male</label></li>
+	      <li><label><input class="sex" name="sex" type="radio" value="F" />Female</label></li>
+	      <li><label><input class="sex" name="sex" type="radio" value="O" />Other</label></li>
+	      <li><label><input class="sex" name="sex" type="radio" value="N" />Decline to answer</label></li>
+	    </ul>
+	  </div>
+	  <div class="question"> Do you have any other comments on the study? <br />
+	    <textarea name="comments" class="comments" rows="2" cols="60"></textarea>
+	  </div>
+	  <div>
+	    <p class="message" style="color:red;"></p>
+	    <input type="button" class="surveydone" value="Continue" />
+	  </div>
+	</div>
+      </div>
+      <div class="panel" panel="thankyou">
+	<p>Thanks for participating!</p>
+	<input type="button" onClick="if(!debug)$('#turkdata').submit();else{alert('Debug done');}" value="Done" />
+      </div>
+    </div>
+</div>
+    <script type="text/javascript" src="experiment.js"></script>
+  </body>
+</html>
+
+
