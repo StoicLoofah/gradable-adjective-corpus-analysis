@@ -1,5 +1,3 @@
-var stimuliSets = [
-[
 {"trial": 0, "isCatch": 0, "phrase": "absolutely unnecessary"},
 {"trial": 1, "isCatch": 0, "phrase": "very relaxed"},
 {"trial": 2, "isCatch": 0, "phrase": "very inexpensive"},
@@ -99,9 +97,7 @@ var stimuliSets = [
 {"trial": 96, "isCatch": 0, "phrase": "half strong"},
 {"trial": 97, "isCatch": 0, "phrase": "quite bumpy"},
 {"trial": 98, "isCatch": 0, "phrase": "completely unlikely"},
-{"trial": 99, "isCatch": 0, "phrase": "absolutely dangerous"}
-],
-[
+{"trial": 99, "isCatch": 0, "phrase": "absolutely dangerous"},
 {"trial": 100, "isCatch": 0, "phrase": "perfectly dirty"},
 {"trial": 101, "isCatch": 0, "phrase": "quite asleep"},
 {"trial": 102, "isCatch": 0, "phrase": "very possible"},
@@ -201,9 +197,7 @@ var stimuliSets = [
 {"trial": 196, "isCatch": 0, "phrase": "very able"},
 {"trial": 197, "isCatch": 0, "phrase": "extremely wide"},
 {"trial": 198, "isCatch": 0, "phrase": "perfectly empty"},
-{"trial": 199, "isCatch": 0, "phrase": "partially relaxed"}
-],
-[
+{"trial": 199, "isCatch": 0, "phrase": "partially relaxed"},
 {"trial": 200, "isCatch": 0, "phrase": "rather asleep"},
 {"trial": 201, "isCatch": 0, "phrase": "perfectly straight"},
 {"trial": 202, "isCatch": 0, "phrase": "totally big"},
@@ -303,9 +297,7 @@ var stimuliSets = [
 {"trial": 296, "isCatch": 0, "phrase": "totally uncertain"},
 {"trial": 297, "isCatch": 0, "phrase": "half certain"},
 {"trial": 298, "isCatch": 0, "phrase": "rather flexible"},
-{"trial": 299, "isCatch": 0, "phrase": "rather able"}
-],
-[
+{"trial": 299, "isCatch": 0, "phrase": "rather able"},
 {"trial": 300, "isCatch": 0, "phrase": "quite safe"},
 {"trial": 301, "isCatch": 0, "phrase": "totally unlikely"},
 {"trial": 302, "isCatch": 0, "phrase": "totally publicized"},
@@ -405,9 +397,7 @@ var stimuliSets = [
 {"trial": 396, "isCatch": 0, "phrase": "absolutely small"},
 {"trial": 397, "isCatch": 0, "phrase": "rather impure"},
 {"trial": 398, "isCatch": 0, "phrase": "partially deep"},
-{"trial": 399, "isCatch": 0, "phrase": "quite full"}
-],
-[
+{"trial": 399, "isCatch": 0, "phrase": "quite full"},
 {"trial": 400, "isCatch": 0, "phrase": "slightly pleased"},
 {"trial": 401, "isCatch": 0, "phrase": "completely bumpy"},
 {"trial": 402, "isCatch": 0, "phrase": "partially open"},
@@ -507,9 +497,7 @@ var stimuliSets = [
 {"trial": 496, "isCatch": 0, "phrase": "rather opaque"},
 {"trial": 497, "isCatch": 0, "phrase": "completely impossible"},
 {"trial": 498, "isCatch": 0, "phrase": "quite closed"},
-{"trial": 499, "isCatch": 0, "phrase": "absolutely straight"}
-],
-[
+{"trial": 499, "isCatch": 0, "phrase": "absolutely straight"},
 {"trial": 500, "isCatch": 0, "phrase": "extremely long"},
 {"trial": 501, "isCatch": 0, "phrase": "rather impossible"},
 {"trial": 502, "isCatch": 0, "phrase": "extremely bumpy"},
@@ -609,6 +597,4 @@ var stimuliSets = [
 {"trial": 596, "isCatch": 0, "phrase": "completely tall"},
 {"trial": 597, "isCatch": 0, "phrase": "slightly unusual"},
 {"trial": 598, "isCatch": 0, "phrase": "partially flexible"},
-{"trial": 599, "isCatch": 0, "phrase": "absolutely impure"}
-]
-];
+{"trial": 599, "isCatch": 0, "phrase": "absolutely impure"},
