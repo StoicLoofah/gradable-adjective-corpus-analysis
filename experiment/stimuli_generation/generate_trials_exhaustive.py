@@ -8,6 +8,7 @@ used for experiment 2
 
 short_list = True
 num_stimuli = 100
+
 folder = '../../data/word_sets/kennedy/'
 adj_file = folder + 'adj.txt'
 mod_file = folder + 'mod.txt'
@@ -33,7 +34,7 @@ for stimuli in indices:
 	
 	fout.write('{{"trial": {0}, "isCatch": 0, "phrase": "{1} {2}"}},\n'.format(my_count, mods[mod], adjs[adj]))
 	fout_indices.write('{0}, {1}\n'.format(adj, mod))
-	fout_words.write('{0}, {1}\n'.format(adj, mod))
+	fout_words.write('{0}, {1}\n'.format(adjs[adj], mods[mod]))
 	my_count += 1
 
 fout.close()

@@ -1,8 +1,12 @@
-adjs = [line.rstrip('\n') for line in open('adj-small.txt', 'r').readlines()]
+folder = 'word_sets/kennedy_extended/'
+adj_file = folder + 'adj.txt'
+mod_file = folder + 'mod.txt'
+
+adjs = [line.rstrip('\n') for line in open(adj_file, 'r').readlines()]
 adj_to_index = dict(zip(adjs, range(len(adjs))))
 adj_unigram_count = [0] * len(adjs)
 
-mods = [line.rstrip('\n') for line in open('mod-small.txt', 'r').readlines()]
+mods = [line.rstrip('\n') for line in open(mod_file, 'r').readlines()]
 mod_to_index = dict(zip(mods, range(len(mods))))
 mod_unigram_count = [0] * len(mods)
 
@@ -24,14 +28,17 @@ for line in open('gigawordnyt-advmod.tsv', 'r'):
     if adj_index != -1 and mod_index != -1:
         dep[adj_index][mod_index] += count
 
-print('ADJECTIVES')
+fout = open(folder + 'adj-unigram.csv', 'w')
 for c in adj_unigram_count:
-    print(c)
+    fout.write(str(c) + '\n')
+fout.close()
 
-print('MODIFIERS')
+fout = open(folder + 'mod-unigram.csv', 'w')
 for c in mod_unigram_count:
-    print(c)
+    fout.write(str(c) + '\n');
+fout.close()
 
-print('DEPENDENCIES')
+fout = open(folder + 'matrix.csv', 'w')
 for row in dep:
-    print(row)
+    fout.write(str(row) + '\n')
+fout.close()

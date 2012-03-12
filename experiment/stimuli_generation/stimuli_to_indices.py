@@ -5,17 +5,20 @@ import math
 short_list = True
 num_stimuli = 100
 
-short_adjs = [line.rstrip('\n') for line in open('adj-small2.txt', 'r').readlines()]
-short_mods = [line.rstrip('\n') for line in open('mod-small2.txt', 'r').readlines()]
+folder = '../../data/word_sets/kennedy_extended/'
+adj_file = folder + 'adj.txt'
+mod_file = folder + 'mod.txt'
+adjs = [line.rstrip('\n') for line in open(adj_file, 'r').readlines()]
+mods = [line.rstrip('\n') for line in open(mod_file, 'r').readlines()]
 
-lines = [line.rstrip('\n') for line in open('stimuli.txt', 'r').readlines()]
+lines = [line.rstrip('\n') for line in open('experiment_2/stimuli_exhaustive.csv', 'r').readlines()]
 
-fout = open('indices.csv', 'w')
+fout = open(folder + 'indices.csv', 'w')
 
 for line in lines:
-	words = line.split(' ')
-	mod = short_mods.index(words[0])
-	adj = short_adjs.index(words[1])
+	words = line.split(',')
+	mod = mods.index(words[0]) + 1
+	adj = adjs.index(words[1]) + 1
 	fout.write('{0},{1}\n'.format(adj, mod))
 	
 fout.close()
