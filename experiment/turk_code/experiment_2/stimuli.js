@@ -1,3 +1,4 @@
+var stimuliSets = [
 [ //0
 {"trial": 568, "isCatch": 0, "phrase": "perfectly dry"},
 {"trial": 588, "isCatch": 0, "phrase": "extremely deep"},
@@ -4898,3 +4899,4 @@
 {"trial": 133, "isCatch": 0, "phrase": "completely flexible"},
 {"trial": 11, "isCatch": 0, "phrase": "half short"}
 ]
+];
