@@ -1,4 +1,4 @@
-folder = 'word_sets/kennedy_extended/'
+folder = 'word_sets/kennedy/'
 adj_file = folder + 'adj.txt'
 mod_file = folder + 'mod.txt'
 
@@ -12,33 +12,41 @@ mod_unigram_count = [0] * len(mods)
 
 dep = [[0] * len(mods) for x in xrange(len(adjs))]
 
+total = 0
+
 for line in open('gigawordnyt-advmod.tsv', 'r'):
-    words = line.rstrip('\n').split('\t')
+	words = line.rstrip('\n').split('\t')
 
-    mod_index = mod_to_index.get(words[1], -1)
-    adj_index = adj_to_index.get(words[0], -1)
-    count = int(words[2])
+	mod_index = mod_to_index.get(words[1], -1)
+	adj_index = adj_to_index.get(words[0], -1)
+	count = int(words[2])
 
-    if adj_index != -1:
-        adj_unigram_count[adj_index] += count
+	total += count
 
-    if mod_index != -1:
-        mod_unigram_count[mod_index] += count
+	if adj_index != -1:
+		adj_unigram_count[adj_index] += count
 
-    if adj_index != -1 and mod_index != -1:
-        dep[adj_index][mod_index] += count
+	if mod_index != -1:
+		mod_unigram_count[mod_index] += count
+
+	if adj_index != -1 and mod_index != -1:
+		dep[adj_index][mod_index] += count
 
 fout = open(folder + 'adj-unigram.csv', 'w')
 for c in adj_unigram_count:
-    fout.write(str(c) + '\n')
+	fout.write(str(c) + '\n')
 fout.close()
 
 fout = open(folder + 'mod-unigram.csv', 'w')
 for c in mod_unigram_count:
-    fout.write(str(c) + '\n');
+	fout.write(str(c) + '\n');
 fout.close()
 
 fout = open(folder + 'matrix.csv', 'w')
 for row in dep:
-    fout.write(str(row) + '\n')
+	fout.write(str(row) + '\n')
+fout.close()
+
+fout = open(folder + 'total.txt', 'w')
+fout.write(str(total) + '\n')
 fout.close()

@@ -1,6 +1,5 @@
 able
 accurate
-acquainted
 appropriate
 asleep
 available
@@ -35,8 +34,6 @@ different
 difficult
 direct
 dirty
-documented
-done
 dry
 due
 early
@@ -51,7 +48,6 @@ extra
 far
 fast
 fat
-filled
 final
 financial
 fine
@@ -59,7 +55,6 @@ flat
 flexible
 foreign
 free
-frightened
 full
 future
 general
@@ -127,7 +122,6 @@ prime
 private
 professional
 public
-publicized
 pure
 ready
 real
@@ -152,21 +146,17 @@ special
 specific
 straight
 strong
-sturdy
 successful
 sure
-talkative
 tall
 top
 total
 traditional
 transparent
 uncertain
-understood
 unlikely
 unnecessary
 unusual
-unworried
 useful
 various
 wet
@@ -174,7 +164,5 @@ white
 whole
 wide
 working
-worried
-written
 wrong
 young

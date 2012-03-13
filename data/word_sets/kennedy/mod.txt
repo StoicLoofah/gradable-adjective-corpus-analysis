@@ -2,6 +2,7 @@ absolutely
 completely
 extremely
 half
+much
 partially
 perfectly
 pretty
@@ -10,3 +11,4 @@ rather
 slightly
 totally
 very
+well
