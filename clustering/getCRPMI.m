@@ -1,7 +1,6 @@
 function [dataset] = getCRPMI(dataset)
 dataset = getPMI(dataset);
 f_adjust = dataset.data ./ (dataset.data + 1);
-
 dataset.crpmi = zeros(size(dataset.data));
 
 for i=1:size(dataset.data, 1)
