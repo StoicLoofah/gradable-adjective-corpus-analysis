@@ -1,7 +1,27 @@
+"""
+Calculate mean and standard deviation of data x[]:
+    mean = {\sum_i x_i \over n}
+    std = sqrt(\sum_i (x_i - mean)^2 \over n-1)
+"""
+def meanstdv(x):
+    from math import sqrt
+    n, mean, std = len(x), 0, 0
+    for a in x:
+	mean = mean + a
+    mean = mean / float(n)
+    for a in x:
+	std = std + (a - mean)**2
+    std = sqrt(std / float(n-1))
+    return mean, std
 
 
-matrix = [[0] * 14 for i in range(49)]
-counts = [[0] * 14 for i in range(49)]
+ratings_separated = []
+for i in range(49):
+	temp = [[] for i in range(14)]
+	ratings_separated.append(temp)
+
+means = [[0] * 14 for i in range(49)]
+stdev = [[0] * 14 for i in range(49)]
 
 stim_num_to_indices = {}
 f = open("stimuli_indices.csv", 'r')
@@ -28,15 +48,21 @@ for i in range(len(indices)):
 	for j in range(len(indices[0])):
 		cur_indices = stim_num_to_indices[int(indices[i][j])]
 		cur_val = float(ratings[i][j])
-		matrix[cur_indices[0]][cur_indices[1]] += cur_val
-		counts[cur_indices[0]][cur_indices[1]] += 1
+		ratings_separated[cur_indices[0]][cur_indices[1]].append(cur_val)
 		
-for i in range(len(matrix)):
-	for j in range(len(matrix[0])):
-		matrix[i][j] = matrix[i][j] / counts[i][j]
+for i in range(len(ratings_separated)):
+	for j in range(len(ratings_separated[0])):
+		[means[i][j], stdev[i][j]] = meanstdv(ratings_separated[i][j])
 		
-fout = open('rating_matrix.csv', 'w')
-for row in matrix:
+fout = open('rating_matrix_means.csv', 'w')
+for row in means:
+	for col in row:
+		fout.write(str(col) + ',')
+	fout.write('\n')
+fout.close()
+
+fout = open('rating_matrix_stdev.csv', 'w')
+for row in stdev:
 	for col in row:
 		fout.write(str(col) + ',')
 	fout.write('\n')
