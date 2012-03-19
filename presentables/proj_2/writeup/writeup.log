@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  19 MAR 2012 01:33
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  19 MAR 2012 14:33
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -275,68 +275,66 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 71.
-
-Underfull \hbox (badness 1259) in paragraph at lines 95--96
-[]\OT1/ptm/m/n/10.95 The stim-uli se-lected for this ex-per-i-ment was
- []
-
-[2] [3] [4]
+ [2] [3] [4]
 Underfull \hbox (badness 1173) in paragraph at lines 143--144
 []\OT1/ptm/m/n/10.95 Although the raw fre-quency counts from the
  []
 
-
-Overfull \hbox (0.52927pt too wide) in paragraph at lines 151--161
- [] 
- []
-
-[5] <weightings.png, id=23, 253.9086pt x 153.2124pt>
+<weightings.png, id=20, 253.9086pt x 153.2124pt>
 File: weightings.png Graphic file (type png)
  <use weightings.png>
-<closed_above.png, id=25, 217.7736pt x 131.5314pt>
+<closed_above.png, id=22, 217.7736pt x 131.5314pt>
 File: closed_above.png Graphic file (type png)
  <use closed_above.png>
 Overfull \hbox (6.08705pt too wide) in paragraph at lines 173--176
  []  [] 
  []
 
-<closed_below.png, id=26, 217.7736pt x 131.0496pt>
+<closed_below.png, id=23, 217.7736pt x 131.0496pt>
 File: closed_below.png Graphic file (type png)
  <use closed_below.png>
-<closed_asleep.png, id=27, 217.7736pt x 131.0496pt>
+<closed_asleep.png, id=24, 217.7736pt x 131.0496pt>
 File: closed_asleep.png Graphic file (type png)
  <use closed_asleep.png>
+Underfull \hbox (badness 1009) in paragraph at lines 188--189
+[]\OT1/ptm/m/n/10.95 The vari-ants of point-wise mu-tual in-for-ma-tion
+ []
+
+[5]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[6]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \hbox (badness 6944) in paragraph at lines 245--245
+ [6 <./weightings.png> <./closed_above.png> <./closed_below.png> <./closed_asle
+ep.png>]
+Underfull \hbox (badness 6944) in paragraph at lines 244--244
 [][]\OT1/ptm/m/n/9 All files, in-clud-ing fur-ther data, are avail-able at
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--245
+Underfull \hbox (badness 10000) in paragraph at lines 244--244
 \OT1/ptm/m/n/9 https://github.com/StoicLoofah/gradable-adjective-corpus-
  []
 
-[7 <./weightings.png> <./closed_above.png> <./closed_below.png> <./closed_aslee
-p.png>] [8] (./writeup.bbl [9]) [10
+[7] (./writeup.bbl [8]) [9
 
 ] (./writeup.aux) ) 
 Here is how much of TeX's memory you used:
- 3271 strings out of 493747
- 48794 string characters out of 3143546
- 117400 words of memory out of 3000000
- 6495 multiletter control sequences out of 15000+200000
+ 3270 strings out of 493747
+ 48776 string characters out of 3143546
+ 113392 words of memory out of 3000000
+ 6494 multiletter control sequences out of 15000+200000
  30652 words of font info for 68 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 44i,9n,45p,1109b,432s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,9n,45p,1109b,434s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2010/texmf-dist/fonts/enc/dvips/base/8r.
 enc}</usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
 fb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
@@ -345,10 +343,10 @@ fb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 cal/texlive/2010/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texliv
 e/2010/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2010/tex
 mf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on writeup.pdf (10 pages, 206097 bytes).
+Output written on writeup.pdf (9 pages, 203242 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 72 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
