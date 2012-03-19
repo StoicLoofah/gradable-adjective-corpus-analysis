@@ -19,17 +19,19 @@
 \DeclareMathOperator*{\argmax}{arg\,max}
 \setlength\titlebox{6.5cm}    % Expanding the titlebox
 
-\title{Finding Structure in Gradable Adjectives From Vector-Space Models and Human Judgment}
+\title{Finding Structure in Gradable Adjectives From Vector-Space Models and Human Judgment
+\thanks{This project was done with Daniel Lassiter, a postdoc in the CoCo Lab.}}
 
 \author{
   Kevin Leung \\
   Stanford University \\
   {\tt kkleung@cs.stanford.edu}}
 
-\date{}
+%\date{}
 
 \begin{document}
 \maketitle
+
 \begin{abstract}
 Gradable adjectives can be classified according to their scale structures, which have been theorized to determine whether the adjectives accept certain degree modifiers. By presenting experimental evidence, we examine where this theory explains acceptability judgments and where it needs to be extended . Further, we attempt to extend this theory into general usage by examining counts from a large corpus. We show that although the theory predicts most acceptability judgments, it is also confounded by other senses of these same degree modifiers and gradable adjectives, such as speaker confidence and quantification, as well as specific characteristics of words and the register of the data.
 \end{abstract}
@@ -249,7 +251,7 @@ It's possible that in judging \textit{bent}, subjects had an implicit sense of a
 
 \textit{Asleep} and \textit{awake} are also unusual in that they are labeled as being upper closed and lower closed, respectively, so neither should be acceptable with a proportional modifier. Exactly how \textit{half} modifies these words isn't clear intuitively, either, as the scale isn't well-defined.
 
-Given these facts, the 44\% agreement between the experiment and theory on proportional modifiers with closed scales, and the generally poor agreement of proportional modifiers from the model, it at least appears that \textit{half} is not a good determiner for whether a GA is closed. Unfortunately, we cannot make further generalizations about proportional modifiers. 
+Given these facts, the 44\% agreement between the experiment and theory on proportional modifiers with closed scales, and the poor agreement of proportional modifiers from the model, it at least appears that \textit{half} is not a good determiner for whether a GA is closed. Unfortunately, we cannot make further generalizations about proportional modifiers. 
 
 Another interesting result was that \textit{closed} and \textit{asleep} had very similar vectors in the experiment ratings that were very different from any other vectors (Figure \ref{fig:closed-asleep}). Most notably, neither of them were accepted by any of the 5 intensifiers, whereas over 95\% of all GA-intensifier pairs were accepted. This suggests that \textit{closed} and \textit{asleep} are not generally gradable like the rest of the GAs in this set, though it is not clear how. Regardless, it appears that \textit{closed} and \textit{asleep} should belong to the same type, and it might be that \textit{asleep} has a closed scale.
 
@@ -257,7 +259,7 @@ In the results, we mentioned the large discrepancy between theory predictions an
 
 A major difference between the experiment and model ratings was on \textit{totally}, which was acceptable with all absolute and most relative GAs in the experiment, but not acceptable with almost all lower closed and relative GAs in the model. Many of these negative ratings from the model came from 0 or extremely low counts in the data. This difference may come from the different registers between naturalness and newswire data. The corpus counts come from The New York Times, which has a style guide and standards for English usage that likely disallow \textit{totally} in many circumstances. \textit{Totally} in common usage, however, can be a slang hyperbole, such as a new pop song being "totally rad." In this case, the corpus data, although presumably derived from human judgment, is actually closer to the intended meaning than the experiment data.
 
-Some of the pairs that were accepted by humans but not predicted may be the result of different sense for the modifiers and adjectives in question. For example, \textit{completely} was accepted for all lower closed GAs except "bumpy" (which had a rating of -.01) and almost half of the relative adjectives. Its use with some of the adjectives, however, may not be in a graded sense. For example \textit{completely dirty} likely doesn't mean "maximally dirty", but perhaps "dirty in every way", so a table with every inch covered in dust would be \textit{completely dirty}. This use of \textit{completely} is closer to quantification. For another example, \textit{pleased}, a relative adjective, was accepted by all maximum-standard DMs. If someone tells me that they are "absolutely pleased with my results", they more likely mean that they are "absolutely sure that they are pleased" and not "pleased to the absolute degree." The theory for GAs does not cover, and is not intended to cover, cases of speaker confidence, and judgments of these 2 uses need to be disambiguated.
+Some of the pairs that were accepted by humans but not predicted may be the result of different sense for the modifiers and adjectives in question. For example, \textit{completely} was accepted for all lower closed GAs except "bumpy" (which had a rating of -.01) and almost half of the relative adjectives. Its use with some of the adjectives, however, may not be in a graded sense. For example \textit{completely dirty} likely doesn't mean "maximally dirty", but perhaps "dirty in every way", so a table with every inch covered in dust would be \textit{completely dirty}. This use of \textit{completely} is closer to quantification. For another example, \textit{pleased}, a relative adjective, was accepted by all maximum-standard DMs. If someone tells me that they are "absolutely pleased with my results", they more likely mean that they are "absolutely sure that they are pleased" and not "pleased to the absolute degree." The theory for GAs is not intended cover cases of speaker confidence, and judgments of these 2 uses need to be disambiguated.
 
 It has been argued that \textit{possible} and \textit{likely} both function upon the same scale structure, except that \textit{possible} has a minimum value and \textit{likely} does not, so the difference between these should be apparent with ratings on minimum standard DMs, \textit{partially} and \textit{slightly}. Although \textit{possible} is less unacceptable with the minimum standard DMs (-.46 and -.21) than \textit{likely} (-.95 and -.40), these are still both unacceptable to humans (and the model as well), which gives little evidence for a difference.
 
