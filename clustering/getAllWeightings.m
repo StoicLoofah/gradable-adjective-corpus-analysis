@@ -13,3 +13,4 @@ dataset = getPMI(dataset);
 dataset = getNormalizedPMI(dataset);
 dataset = getPMISmoothed(dataset);
 dataset = getCRPMI(dataset);
+dataset = getCRPMISmoothed(dataset);
