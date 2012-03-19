@@ -1,0 +1,71 @@
+\begin{thebibliography}{10}
+
+\bibitem[\protect\citename{Boleda Alemany}2003]{boleda}
+G.~Boleda~Torrent and L.~Alonso~i Alemany.
+\newblock Clustering adjectives for class acquisition.
+\newblock In {\em Proceedings of the tenth conference on European chapter of
+  the Association for Computational Linguistics - Volume 2}, EACL '03, pages
+  9--16, Stroudsburg, PA, USA, 2003. Association for Computational Linguistics.
+
+\bibitem[\protect\citename{Marneffe et al.}2006]{marneffe}
+M.~catherine De~Marneffe, B.~Maccartney, and C.~D. Manning.
+\newblock Generating typed dependency parses from phrase structure parses.
+\newblock In {\em In LREC 2006}, 2006.
+
+\bibitem[\protect\citename{Dhillon}2001]{coclustering}
+I.~S. Dhillon.
+\newblock Co-clustering documents and words using bipartite spectral graph
+  partitioning.
+\newblock In {\em Proceedings of the seventh ACM SIGKDD international
+  conference on Knowledge discovery and data mining}, KDD '01, pages 269--274,
+  New York, NY, USA, 2001. ACM.
+
+\bibitem[\protect\citename{Hatzivassiloglou}1996]{hat}
+V.~Hatzivassiloglou.
+\newblock Do we need linguistics when we have statistics? a comparative
+  analysis of the contributions of linguistic cues to a statistical word
+  grouping system.
+\newblock In {\em In Judith L. Klavans and Philip Resnik, editors, The
+  Balancing Act}, pages 67--94. MIT Press, 1996.
+
+\bibitem[\protect\citename{Kennedy}2007]{kennedy07}
+C.~Kennedy.
+\newblock Vagueness and grammar: the semantics of relative and absolute
+  gradable adjectives.
+\newblock {\em Linguistics and Philosophy}, 30:1--45, 2007.
+\newblock 10.1007/s10988-006-9008-0.
+
+\bibitem[\protect\citename{Kennedy and McNally}2005]{kennedymcnally}
+C.~Kennedy and L.~McNally.
+\newblock Scale structure and the semantic typology of gradable predicates.
+\newblock {\em Language}, 81(2):345--381, 2005.
+
+\bibitem[\protect\citename{Maas et. al}2011]{maas}
+A.~L. Maas, R.~E. Daly, P.~T. Pham, D.~Huang, A.~Y. Ng, and C.~Potts.
+\newblock Learning word vectors for sentiment analysis.
+\newblock In {\em Proceedings of the 49th Annual Meeting of the Association for
+  Computational Linguistics: Human Language Technologies - Volume 1}, HLT '11,
+  pages 142--150, Stroudsburg, PA, USA, 2011. Association for Computational
+  Linguistics.
+
+\bibitem[\protect\citename{Rooth et al.}1999]{rooth}
+M.~Rooth, S.~Riezler, D.~Prescher, G.~Carroll, and F.~Beil.
+\newblock Inducing a semantically annotated lexicon via em-based clustering.
+\newblock In {\em Proceedings of the 37th annual meeting of the Association for
+  Computational Linguistics on Computational Linguistics}, ACL '99, pages
+  104--111, Stroudsburg, PA, USA, 1999. Association for Computational
+  Linguistics.
+
+\bibitem[\protect\citename{Sprouse and Almeida}2012]{sprouse}
+J.~Sprouse and D.~Almeida.
+\newblock Assessing the reliability of textbook data in syntax: Adger's core
+  syntax.
+\newblock {\em Journal of Linguistics}, pages 1--44, 2012.
+
+\bibitem[\protect\citename{Syrett and Lidz}2010]{syrett}
+K.~Syrett and J.~Lidz.
+\newblock 30-month-olds use the distribution and meaning of adverbs to
+  interpret novel adjectives.
+\newblock {\em Language Learning and Development}, 6(4):258--282, 2010.
+
+\end{thebibliography}

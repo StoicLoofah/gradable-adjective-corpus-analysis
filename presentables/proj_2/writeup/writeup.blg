@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2010)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: writeup.aux
+The style file: abbrv.bst
+Database file #1: ga-corpus.bib
+You've used 10 entries,
+            2118 wiz_defined-function locations,
+            570 strings with 5911 characters,
+and the built_in function-call counts, 3969 in all, are:
+= -- 417
+> -- 152
+< -- 6
++ -- 60
+- -- 50
+* -- 255
+:= -- 623
+add.period$ -- 36
+call.type$ -- 10
+change.case$ -- 55
+chr.to.int$ -- 0
+cite$ -- 10
+duplicate$ -- 172
+empty$ -- 322
+format.name$ -- 50
+if$ -- 884
+int.to.chr$ -- 0
+int.to.str$ -- 10
+missing$ -- 10
+newline$ -- 54
+num.names$ -- 20
+pop$ -- 54
+preamble$ -- 1
+purify$ -- 45
+quote$ -- 0
+skip$ -- 130
+stack$ -- 0
+substring$ -- 262
+swap$ -- 56
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 40
+warning$ -- 0
+while$ -- 41
+width$ -- 12
+write$ -- 126
